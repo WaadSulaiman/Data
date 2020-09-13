@@ -35,5 +35,49 @@
 "Category": "Computers",
 "url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryComputers"
 },
+{
+"Category": "Courage",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryCourage"
+},
+{
+"Category": "Dating",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryDating"
+},
+{
+"Category": "Death",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryDeath"
+},
+{
+"Category": "Design",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryDesign"
+},
+{
+"Category": "Diet",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryDiet"
+},
+{
+"Category": "Dreams",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryDreams"
+},
+{
+"Category": "Education",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryEducation"
+},
+{
+"Category": "Environmental",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryEnvironmental"
+},
+{
+"Category": "Equality",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryEquality"
+},
+{
+"Category": "Experience",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryExperience"
+},
+{
+"Category": "Failure",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFailure"
+},
 ]
 {
