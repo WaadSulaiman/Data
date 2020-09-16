@@ -1,4 +1,5 @@
-[
+{
+"Quotes": [
 {
   "Author": "Albert Einstein",
   "Category": "art",
@@ -4130,3 +4131,4 @@
   "Quotes": "Wushu is a move in Chinese, a physical move. An attack. Wushu is like an art."
 },
 ]
+}
