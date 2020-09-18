@@ -1,0 +1,4435 @@
+{
+"Quotes" :
+[
+{
+  "Author": "John F. Kennedy",
+  "Category": "fear",
+  "Quotes": "A nation that is afraid to let its people judge the truth and falsehood in an open market is a nation that is afraid of its people."
+},
+{
+  "Author": "Audrey Hepburn",
+  "Category": "fear",
+  "Quotes": "Pick the day. Enjoy it - to the hilt. The day as it comes. People as they come... The past, I think, has helped me appreciate the present - and I don't want to spoil any of it by fretting about the future."
+},
+{
+  "Author": "Thomas Paine",
+  "Category": "fear",
+  "Quotes": "I love the man that can smile in trouble, that can gather strength from distress, and grow brave by reflection. 'Tis the business of little minds to shrink, but he whose heart is firm, and whose conscience approves his conduct, will pursue his principles unto death."
+},
+{
+  "Author": "Jim Morrison",
+  "Category": "fear",
+  "Quotes": "We fear violence less than our own feelings. Personal, private, solitary pain is more terrifying than what anyone else can inflict."
+},
+{
+  "Author": "Jiddu Krishnamurti",
+  "Category": "fear",
+  "Quotes": "What is needed, rather than running away or controlling or suppressing or any other resistance, is understanding fear that means, watch it, learn about it, come directly into contact with it. We are to learn about fear, not how to escape from it."
+},
+{
+  "Author": "Rosa Parks",
+  "Category": "fear",
+  "Quotes": "I have learned over the years that when one's mind is made up, this diminishes fear knowing what must be done does away with fear."
+},
+{
+  "Author": "Chanakya",
+  "Category": "fear",
+  "Quotes": "We should not fret for what is past, nor should we be anxious about the future men of discernment deal only with the present moment."
+},
+{
+  "Author": "Johann Wolfgang von Goethe",
+  "Category": "fear",
+  "Quotes": "It is the strange fate of man, that even in the greatest of evils the fear of the worst continues to haunt him."
+},
+{
+  "Author": "Marianne Williamson",
+  "Category": "fear",
+  "Quotes": "Love is what we were born with. Fear is what we learned here."
+},
+{
+  "Author": "Thomas Carlyle",
+  "Category": "fear",
+  "Quotes": "The first duty of man is to conquer fear he must get rid of it, he cannot act till then."
+},
+{
+  "Author": "Lucius Annaeus Seneca",
+  "Category": "fear",
+  "Quotes": "A person's fears are lighter when the danger is at hand."
+},
+{
+  "Author": "Charles Stanley",
+  "Category": "fear",
+  "Quotes": "Fear stifles our thinking and actions. It creates indecisiveness that results in stagnation. I have known talented people who procrastinate indefinitely rather than risk failure. Lost opportunities cause erosion of confidence, and the downward spiral begins."
+},
+{
+  "Author": "Charles de Montesquieu",
+  "Category": "fear",
+  "Quotes": "I have never known any distress that an hour's reading did not relieve."
+},
+{
+  "Author": "Marcus Tullius Cicero",
+  "Category": "fear",
+  "Quotes": "True nobility is exempt from fear."
+},
+{
+  "Author": "Benjamin Disraeli",
+  "Category": "fear",
+  "Quotes": "Fear makes us feel our humanity."
+},
+{
+  "Author": "George Eliot",
+  "Category": "fear",
+  "Quotes": "There are many victories worse than a defeat."
+},
+{
+  "Author": "Samuel Butler",
+  "Category": "fear",
+  "Quotes": "Fear is static that prevents me from hearing myself."
+},
+{
+  "Author": "Rainer Maria Rilke",
+  "Category": "fear",
+  "Quotes": "One had to take some action against fear when once it laid hold of one."
+},
+{
+  "Author": "Francis Bacon",
+  "Category": "fear",
+  "Quotes": "Prosperity is not without many fears and distastes adversity not without many comforts and hopes."
+},
+{
+  "Author": "Michel de Montaigne",
+  "Category": "fear",
+  "Quotes": "There is no passion so contagious as that of fear."
+},
+{
+  "Author": "Thomas Fuller",
+  "Category": "fear",
+  "Quotes": "He that hopes no good fears no ill."
+},
+{
+  "Author": "Anatole France",
+  "Category": "fear",
+  "Quotes": "That man is prudent who neither hopes nor fears anything from the uncertain events of the future."
+},
+{
+  "Author": "Sophocles",
+  "Category": "fear",
+  "Quotes": "To him who is in fear everything rustles."
+},
+{
+  "Author": "Andre Gide",
+  "Category": "fear",
+  "Quotes": "There are very few monsters who warrant the fear we have of them."
+},
+{
+  "Author": "Charles Caleb Colton",
+  "Category": "fear",
+  "Quotes": "We often pretend to fear what we really despise, and more often despise what we really fear."
+},
+{
+  "Author": "Aeschylus",
+  "Category": "fear",
+  "Quotes": "There are times when fear is good. It must keep its watchful place at the heart's controls."
+},
+{
+  "Author": "Eric Hoffer",
+  "Category": "fear",
+  "Quotes": "We have perhaps a natural fear of ends. We would rather be always on the way than arrive. Given the means, we hang on to them and often forget the ends."
+},
+{
+  "Author": "Virgil",
+  "Category": "fear",
+  "Quotes": "I fear the Greeks, even when they bring gifts."
+},
+{
+  "Author": "Josh Billings",
+  "Category": "fear",
+  "Quotes": "The thinner the ice, the more anxious is everyone to see whether it will bear."
+},
+{
+  "Author": "Eric Hoffer",
+  "Category": "fear",
+  "Quotes": "The fear of becoming a 'has-been' keeps some people from becoming anything."
+},
+{
+  "Author": "Ovid",
+  "Category": "fear",
+  "Quotes": "Everyone wishes that the man whom he fears would perish."
+},
+{
+  "Author": "Ovid",
+  "Category": "fear",
+  "Quotes": "Minds that are ill at ease are agitated by both hope and fear."
+},
+{
+  "Author": "Lyndon B. Johnson",
+  "Category": "fear",
+  "Quotes": "I'd rather give my life than be afraid to give it."
+},
+{
+  "Author": "Dave Barry",
+  "Category": "fear",
+  "Quotes": "As a child, I was more afraid of tetanus shots than, for example, Dracula."
+},
+{
+  "Author": "Horace Mann",
+  "Category": "fear",
+  "Quotes": "To pity distress is but human to relieve it is Godlike."
+},
+{
+  "Author": "Franz Kafka",
+  "Category": "fear",
+  "Quotes": "My 'fear' is my substance, and probably the best part of me."
+},
+{
+  "Author": "Christian Nestell Bovee",
+  "Category": "fear",
+  "Quotes": "We fear things in proportion to our ignorance of them."
+},
+{
+  "Author": "Brendan Francis",
+  "Category": "fear",
+  "Quotes": "Every man, through fear, mugs his aspirations a dozen times a day."
+},
+{
+  "Author": "Fred Allen",
+  "Category": "fear",
+  "Quotes": "Some movie stars wear their sunglasses even in church. They're afraid God might recognize them and ask for autographs."
+},
+{
+  "Author": "Publilius Syrus",
+  "Category": "fear",
+  "Quotes": "He whom many fear, has himself many to fear."
+},
+{
+  "Author": "Miguel de Cervantes",
+  "Category": "fear",
+  "Quotes": "Fear has many eyes and can see things underground."
+},
+{
+  "Author": "Baruch Spinoza",
+  "Category": "fear",
+  "Quotes": "There is no hope unmingled with fear, and no fear unmingled with hope."
+},
+{
+  "Author": "Luc de Clapiers",
+  "Category": "fear",
+  "Quotes": "There is nothing that fear and hope does not permit men to do."
+},
+{
+  "Author": "Sharon Stone",
+  "Category": "fear",
+  "Quotes": "You know, sometimes I feel well and vital in the world, and sometimes I just feel so distressed I want to pull my hair out by the roots."
+},
+{
+  "Author": "Christian Bale",
+  "Category": "fear",
+  "Quotes": "I have a fear of being boring."
+},
+{
+  "Author": "Britney Spears",
+  "Category": "fear",
+  "Quotes": "I'm not at the point where I'd feel safe in a house alone. I would be really scared. I'm the kind of person that when I get up to go use the bathroom I have this big long hallway, and I just know someone's going to jump out and get me."
+},
+{
+  "Author": "Laura Schlessinger",
+  "Category": "fear",
+  "Quotes": "This is all you have. This is not a dry run. This is your life. If you want to fritter it away with your fears, then you will fritter it away, but you won't get it back later."
+},
+{
+  "Author": "Cyril Connolly",
+  "Category": "fear",
+  "Quotes": "Hate is the consequence of fear we fear something before we hate it a child who fears noises becomes a man who hates noise."
+},
+{
+  "Author": "David Joseph Schwartz",
+  "Category": "fear",
+  "Quotes": "Do what you fear and fear disappears."
+},
+{
+  "Author": "Phil Crosby",
+  "Category": "fear",
+  "Quotes": "Slowness to change usually means fear of the new."
+},
+{
+  "Author": "Samuel Daniel",
+  "Category": "fear",
+  "Quotes": "By adversity are wrought the greatest works of admiration, and all the fair examples of renown, out of distress and misery are grown."
+},
+{
+  "Author": "Umberto Eco",
+  "Category": "fear",
+  "Quotes": "Nothing gives a fearful man more courage than another's fear."
+},
+{
+  "Author": "Fernando Flores",
+  "Category": "fear",
+  "Quotes": "Great work is done by people who are not afraid to be great."
+},
+{
+  "Author": "Robert Anthony",
+  "Category": "fear",
+  "Quotes": "We fear the thing we want the most."
+},
+{
+  "Author": "Georges Bernanos",
+  "Category": "fear",
+  "Quotes": "It is the perpetual dread of fear, the fear of fear, that shapes the face of a brave man."
+},
+{
+  "Author": "Jean Anouilh",
+  "Category": "fear",
+  "Quotes": "An ugly sight, a man who is afraid."
+},
+{
+  "Author": "Marilyn Ferguson",
+  "Category": "fear",
+  "Quotes": "Ultimately we know deeply that the other side of every fear is freedom."
+},
+{
+  "Author": "Francis Quarles",
+  "Category": "fear",
+  "Quotes": "Let the fear of danger be a spur to prevent it he that fears not, gives advantage to the danger."
+},
+{
+  "Author": "Arthur Koestler",
+  "Category": "fear",
+  "Quotes": "Courage is never to let your actions be influenced by your fears."
+},
+{
+  "Author": "Zack Wamp",
+  "Category": "fear",
+  "Quotes": "We should not be afraid to go into a new era, to leave the old beyond."
+},
+{
+  "Author": "Charles Kennedy",
+  "Category": "fear",
+  "Quotes": "Courage is a peculiar kind of fear."
+},
+{
+  "Author": "Dorothy Thompson",
+  "Category": "fear",
+  "Quotes": "Only when we are no longer afraid do we begin to live."
+},
+{
+  "Author": "Kenny Rogers",
+  "Category": "fear",
+  "Quotes": "Don't be afraid to give up the good for the great."
+},
+{
+  "Author": "Paul Sweeney",
+  "Category": "fear",
+  "Quotes": "True success is overcoming the fear of being unsuccessful."
+},
+{
+  "Author": "Dustin Hoffman",
+  "Category": "fear",
+  "Quotes": "One thing about being successful is that I stopped being afraid of dying. Once you're a star you're dead already. You're embalmed."
+},
+{
+  "Author": "Ernest Gaines",
+  "Category": "fear",
+  "Quotes": "The mark of fear is not easily removed."
+},
+{
+  "Author": "Sonia Johnson",
+  "Category": "fear",
+  "Quotes": "What we have most to fear is failure of the heart."
+},
+{
+  "Author": "John Cheever",
+  "Category": "fear",
+  "Quotes": "Fear tastes like a rusty knife and do not let her into your house."
+},
+{
+  "Author": "Robert Heller",
+  "Category": "fear",
+  "Quotes": "Fear is excitement without breath."
+},
+{
+  "Author": "Ian Rush",
+  "Category": "fear",
+  "Quotes": "And the things that we fear are a weapon to be held against us."
+},
+{
+  "Author": "Pierre Beaumarchais",
+  "Category": "fear",
+  "Quotes": "I hasten to laugh at everything, for fear of being obliged to weep."
+},
+{
+  "Author": "Nadine Gordimer",
+  "Category": "fear",
+  "Quotes": "A child understands fear, and the hurt and hate it brings."
+},
+{
+  "Author": "David Joseph Schwartz",
+  "Category": "fear",
+  "Quotes": "To fight fear, act. To increase fear - wait, put off postpone."
+},
+{
+  "Author": "Lou Brock",
+  "Category": "fear",
+  "Quotes": "Show me a guy who's afraid to look bad, and I'll show you a guy you can beat every time."
+},
+{
+  "Author": "Olive Schreiner",
+  "Category": "fear",
+  "Quotes": "No good work is ever done while the heart is hot and anxious and fretted."
+},
+{
+  "Author": "Aulus Persius Flaccus",
+  "Category": "fear",
+  "Quotes": "We consume our tomorrows fretting about our yesterdays."
+},
+{
+  "Author": "Etty Hillesum",
+  "Category": "fear",
+  "Quotes": "I think what weakens people most is fear of wasting their strength."
+},
+{
+  "Author": "Katharine Butler Hathaway",
+  "Category": "fear",
+  "Quotes": "If you let your fear of consequence prevent you from following your deepest instinct, your life will be safe, expedient and thin."
+},
+{
+  "Author": "Harold Kushner",
+  "Category": "fear",
+  "Quotes": "I am convinced that it is not the fear of death, of our lives ending that haunts our sleep so much as the fear... that as far as the world is concerned, we might as well never have lived."
+},
+{
+  "Author": "Hale White",
+  "Category": "fear",
+  "Quotes": "When we are afraid we ought not to occupy ourselves with endeavoring to prove that there is no danger, but in strengthening ourselves to go on in spite of the danger."
+},
+{
+  "Author": "Bill Cosby",
+  "Category": "fear",
+  "Quotes": "In order to succeed, your desire for success should be greater than your fear of failure."
+},
+{
+  "Author": "Eleanor Roosevelt",
+  "Category": "fear",
+  "Quotes": "We gain strength, and courage, and confidence by each experience in which we really stop to look fear in the face... we must do that which we think we cannot."
+},
+{
+  "Author": "Thomas Jefferson",
+  "Category": "fear",
+  "Quotes": "When the people fear the government, there is tyranny. When the government fears the people, there is liberty."
+},
+{
+  "Author": "Eleanor Roosevelt",
+  "Category": "fear",
+  "Quotes": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I lived through this horror. I can take the next thing that comes along.'"
+},
+{
+  "Author": "Nelson Mandela",
+  "Category": "fear",
+  "Quotes": "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
+},
+{
+  "Author": "Henry Van Dyke",
+  "Category": "fear",
+  "Quotes": "Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity."
+},
+{
+  "Author": "Jim Morrison",
+  "Category": "fear",
+  "Quotes": "Expose yourself to your deepest fear after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free."
+},
+{
+  "Author": "Buddha",
+  "Category": "fear",
+  "Quotes": "The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed."
+},
+{
+  "Author": "Albert Einstein",
+  "Category": "fear",
+  "Quotes": "If people are good only because they fear punishment, and hope for reward, then we are a sorry lot indeed."
+},
+{
+  "Author": "Bruce Lee",
+  "Category": "fear",
+  "Quotes": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."
+},
+{
+  "Author": "Jim Morrison",
+  "Category": "fear",
+  "Quotes": "People fear death even more than pain. It's strange that they fear death. Life hurts a lot more than death. At the point of death, the pain is over. Yeah, I guess it is a friend."
+},
+{
+  "Author": "Martin Luther King, Jr.",
+  "Category": "fear",
+  "Quotes": "We must build dikes of courage to hold back the flood of fear."
+},
+{
+  "Author": "Albert Einstein",
+  "Category": "fear",
+  "Quotes": "The fear of death is the most unjustified of all fears, for there's no risk of accident for someone who's dead."
+},
+{
+  "Author": "Joel Osteen",
+  "Category": "fear",
+  "Quotes": "Faith activates God - Fear activates the Enemy."
+},
+{
+  "Author": "Mark Twain",
+  "Category": "fear",
+  "Quotes": "Courage is resistance to fear, mastery of fear, not absence of fear."
+},
+{
+  "Author": "Mark Twain",
+  "Category": "fear",
+  "Quotes": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."
+},
+{
+  "Author": "Albert Einstein",
+  "Category": "fear",
+  "Quotes": "It was the experience of mystery - even if mixed with fear - that engendered religion."
+},
+{
+  "Author": "Buddha",
+  "Category": "fear",
+  "Quotes": "When one has the feeling of dislike for evil, when one feels tranquil, one finds pleasure in listening to good teachings when one has these feelings and appreciates them, one is free of fear."
+},
+{
+  "Author": "Thomas Jefferson",
+  "Category": "fear",
+  "Quotes": "Question with boldness even the existence of a God because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear."
+},
+{
+  "Author": "Steve Jobs",
+  "Category": "fear",
+  "Quotes": "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything - all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important."
+},
+{
+  "Author": "Benjamin Franklin",
+  "Category": "fear",
+  "Quotes": "Do not fear mistakes. You will know failure. Continue to reach out."
+},
+{
+  "Author": "Edgar Allan Poe",
+  "Category": "fear",
+  "Quotes": "All religion, my friend, is simply evolved out of fraud, fear, greed, imagination, and poetry."
+},
+{
+  "Author": "Mark Twain",
+  "Category": "fear",
+  "Quotes": "Do the thing you fear most and the death of fear is certain."
+},
+{
+  "Author": "Bruce Barton",
+  "Category": "fear",
+  "Quotes": "Action and reaction, ebb and flow, trial and error, change - this is the rhythm of living. Out of our over-confidence, fear out of our fear, clearer vision, fresh hope. And out of hope, progress."
+},
+{
+  "Author": "Eleanor Roosevelt",
+  "Category": "fear",
+  "Quotes": "We are afraid to care too much, for fear that the other person does not care at all."
+},
+{
+  "Author": "Marianne Williamson",
+  "Category": "fear",
+  "Quotes": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our Light, not our Darkness, that most frightens us."
+},
+{
+  "Author": "Mahatma Gandhi",
+  "Category": "fear",
+  "Quotes": "Power is of two kinds. One is obtained by the fear of punishment and the other by acts of love. Power based on love is a thousand times more effective and permanent then the one derived from fear of punishment."
+},
+{
+  "Author": "John Paul Jones",
+  "Category": "fear",
+  "Quotes": "If fear is cultivated it will become stronger, if faith is cultivated it will achieve mastery."
+},
+{
+  "Author": "Dale Carnegie",
+  "Category": "fear",
+  "Quotes": "If you want to conquer fear, don't sit home and think about it. Go out and get busy."
+},
+{
+  "Author": "Khalil Gibran",
+  "Category": "fear",
+  "Quotes": "March on. Do not tarry. To go forward is to move toward perfection. March on, and fear not the thorns, or the sharp stones on life's path."
+},
+{
+  "Author": "Thomas Jefferson",
+  "Category": "fear",
+  "Quotes": "Fix reason firmly in her seat, and call to her tribunal every fact, every opinion. Question with boldness even the existence of a God because, if there be one, he must more approve of the homage of reason, than that of blindfolded fear."
+},
+{
+  "Author": "Babe Ruth",
+  "Category": "fear",
+  "Quotes": "Don't let the fear of striking out hold you back."
+},
+{
+  "Author": "Norman Vincent Peale",
+  "Category": "fear",
+  "Quotes": "Action is a great restorer and builder of confidence. Inaction is not only the result, but the cause, of fear. Perhaps the action you take will be successful perhaps different action or adjustments will have to follow. But any action is better than no action at all."
+},
+{
+  "Author": "Confucius",
+  "Category": "fear",
+  "Quotes": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"
+},
+{
+  "Author": "C. S. Lewis",
+  "Category": "fear",
+  "Quotes": "No one ever told me that grief felt so like fear."
+},
+{
+  "Author": "Thomas Jefferson",
+  "Category": "fear",
+  "Quotes": "I have no fear that the result of our experiment will be that men may be trusted to govern themselves without a master."
+},
+{
+  "Author": "Eleanor Roosevelt",
+  "Category": "fear",
+  "Quotes": "I believe that anyone can conquer fear by doing the things he fears to do, provided he keeps doing them until he gets a record of successful experience behind him."
+},
+{
+  "Author": "Tupac Shakur",
+  "Category": "fear",
+  "Quotes": "I don't have no fear of death. My only fear is coming back reincarnated."
+},
+{
+  "Author": "Sun Tzu",
+  "Category": "fear",
+  "Quotes": "If you know the enemy and know yourself you need not fear the results of a hundred battles."
+},
+{
+  "Author": "Winston Churchill",
+  "Category": "fear",
+  "Quotes": "The reserve of modern assertions is sometimes pushed to extremes, in which the fear of being contradicted leads the writer to strip himself of almost all sense and meaning."
+},
+{
+  "Author": "George S. Patton",
+  "Category": "fear",
+  "Quotes": "Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best it removes all that is base. All men are afraid in battle. The coward is the one who lets his fear overcome his sense of duty. Duty is the essence of manhood."
+},
+{
+  "Author": "Khalil Gibran",
+  "Category": "fear",
+  "Quotes": "Advance, and never halt, for advancing is perfection. Advance and do not fear the thorns in the path, for they draw only corrupt blood."
+},
+{
+  "Author": "Thomas Jefferson",
+  "Category": "fear",
+  "Quotes": "There is not a truth existing which I fear... or would wish unknown to the whole world."
+},
+{
+  "Author": "Dale Carnegie",
+  "Category": "fear",
+  "Quotes": "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."
+},
+{
+  "Author": "Marie Curie",
+  "Category": "fear",
+  "Quotes": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
+},
+{
+  "Author": "Thomas Jefferson",
+  "Category": "fear",
+  "Quotes": "My only fear is that I may live too long. This would be a subject of dread to me."
+},
+{
+  "Author": "William Shakespeare",
+  "Category": "fear",
+  "Quotes": "In time we hate that which we often fear."
+},
+{
+  "Author": "Lord Byron",
+  "Category": "fear",
+  "Quotes": "Love will find a way through paths where wolves fear to prey."
+},
+{
+  "Author": "William Shakespeare",
+  "Category": "fear",
+  "Quotes": "Things done well and with a care, exempt themselves from fear."
+},
+{
+  "Author": "Paulo Coelho",
+  "Category": "fear",
+  "Quotes": "Tell your heart that the fear of suffering is worse than the suffering itself. And no heart has ever suffered when it goes in search of its dream."
+},
+{
+  "Author": "Pope John Paul II",
+  "Category": "fear",
+  "Quotes": "Have no fear of moving into the unknown. Simply step out fearlessly knowing that I am with you, therefore no harm can befall you all is very, very well. Do this in complete faith and confidence."
+},
+{
+  "Author": "Mahatma Gandhi",
+  "Category": "fear",
+  "Quotes": "Fear has its use but cowardice has none."
+},
+{
+  "Author": "Mahatma Gandhi",
+  "Category": "fear",
+  "Quotes": "Fear of death makes us devoid both of valour and religion. For want of valour is want of religious faith."
+},
+{
+  "Author": "Mahatma Gandhi",
+  "Category": "fear",
+  "Quotes": "Only he can take great resolves who has indomitable faith in God and has fear of God."
+},
+{
+  "Author": "Chanakya",
+  "Category": "fear",
+  "Quotes": "He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment. Thus one should discard attachment to be happy."
+},
+{
+  "Author": "Ralph Waldo Emerson",
+  "Category": "fear",
+  "Quotes": "He who is not everyday conquering some fear has not learned the secret of life."
+},
+{
+  "Author": "John F. Kennedy",
+  "Category": "fear",
+  "Quotes": "Let us never negotiate out of fear. But let us never fear to negotiate."
+},
+{
+  "Author": "Aristotle",
+  "Category": "fear",
+  "Quotes": "Fear is pain arising from the anticipation of evil."
+},
+{
+  "Author": "Ralph Waldo Emerson",
+  "Category": "fear",
+  "Quotes": "Fear defeats more people than any other one thing in the world."
+},
+{
+  "Author": "Henry David Thoreau",
+  "Category": "fear",
+  "Quotes": "When I hear music, I fear no danger. I am invulnerable. I see no foe. I am related to the earliest times, and to the latest."
+},
+{
+  "Author": "Salvador Dali",
+  "Category": "fear",
+  "Quotes": "Have no fear of perfection - you'll never reach it."
+},
+{
+  "Author": "Tecumseh",
+  "Category": "fear",
+  "Quotes": "When your time comes to die, be not like those whose hearts are filled with fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song, and die like a hero going home."
+},
+{
+  "Author": "Aristotle",
+  "Category": "fear",
+  "Quotes": "I have gained this from philosophy: that I do without being commanded what others do only from fear of the law."
+},
+{
+  "Author": "Ralph Waldo Emerson",
+  "Category": "fear",
+  "Quotes": "Do the thing we fear, and death of fear is certain."
+},
+{
+  "Author": "Marcus Aurelius",
+  "Category": "fear",
+  "Quotes": "It is not death that a man should fear, but he should fear never beginning to live."
+},
+{
+  "Author": "Friedrich Nietzsche",
+  "Category": "fear",
+  "Quotes": "Fear is the mother of morality."
+},
+{
+  "Author": "Aristotle",
+  "Category": "fear",
+  "Quotes": "Courage is a mean with regard to fear and confidence."
+},
+{
+  "Author": "Albert Camus",
+  "Category": "fear",
+  "Quotes": "Nothing is more despicable than respect based on fear."
+},
+{
+  "Author": "Michael Jordan",
+  "Category": "fear",
+  "Quotes": "Limits, like fear, is often an illusion."
+},
+{
+  "Author": "Jim Morrison",
+  "Category": "fear",
+  "Quotes": "The appeal of cinema lies in the fear of death."
+},
+{
+  "Author": "Aristotle",
+  "Category": "fear",
+  "Quotes": "The generality of men are naturally apt to be swayed by fear rather than reverence, and to refrain from evil rather because of the punishment that it brings than because of its own foulness."
+},
+{
+  "Author": "Aristotle",
+  "Category": "fear",
+  "Quotes": "Men are swayed more by fear than by reverence."
+},
+{
+  "Author": "Harry S. Truman",
+  "Category": "fear",
+  "Quotes": "When even one American - who has done nothing wrong - is forced by fear to shut his mind and close his mouth - then all Americans are in peril."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "To fear love is to fear life, and those who fear life are already three parts dead."
+},
+{
+  "Author": "Lao Tzu",
+  "Category": "fear",
+  "Quotes": "Simulated disorder postulates perfect discipline simulated fear postulates courage simulated weakness postulates strength."
+},
+{
+  "Author": "Marilyn Monroe",
+  "Category": "fear",
+  "Quotes": "Having a child, that's always been my biggest fear. I want a child and I fear a child."
+},
+{
+  "Author": "Marilyn Monroe",
+  "Category": "fear",
+  "Quotes": "Fear is stupid. So are regrets."
+},
+{
+  "Author": "Anais Nin",
+  "Category": "fear",
+  "Quotes": "People living deeply have no fear of death."
+},
+{
+  "Author": "Haniel Long",
+  "Category": "fear",
+  "Quotes": "So much of what is best in us is bound up in our love of family, that it remains the measure of our stability because it measures our sense of loyalty. All other pacts of love or fear derive from it and are modeled upon it."
+},
+{
+  "Author": "Dwight D. Eisenhower",
+  "Category": "fear",
+  "Quotes": "This world of ours... must avoid becoming a community of dreadful fear and hate, and be, instead, a proud confederation of mutual trust and respect."
+},
+{
+  "Author": "Franklin D. Roosevelt",
+  "Category": "fear",
+  "Quotes": "The only thing we have to fear is fear itself."
+},
+{
+  "Author": "Lucius Annaeus Seneca",
+  "Category": "fear",
+  "Quotes": "The day which we fear as our last is but the birthday of eternity."
+},
+{
+  "Author": "Robert Frost",
+  "Category": "fear",
+  "Quotes": "I never dared to be radical when young for fear it would make me conservative when old."
+},
+{
+  "Author": "George S. Patton",
+  "Category": "fear",
+  "Quotes": "The time to take counsel of your fears is before you make an important battle decision. That's the time to listen to every fear you can imagine! When you have collected all the facts and fears and made your decision, turn off all your fears and go ahead!"
+},
+{
+  "Author": "Chanakya",
+  "Category": "fear",
+  "Quotes": "As soon as the fear approaches near, attack and destroy it."
+},
+{
+  "Author": "Wayne Dyer",
+  "Category": "fear",
+  "Quotes": "The components of anxiety, stress, fear, and anger do not exist independently of you in the world. They simply do not exist in the physical world, even though we talk about them as if they do."
+},
+{
+  "Author": "William James",
+  "Category": "fear",
+  "Quotes": "The world we see that seems so insane is the result of a belief system that is not working. To perceive the world differently, we must be willing to change our belief system, let the past slip away, expand our sense of now, and dissolve the fear in our minds."
+},
+{
+  "Author": "James A. Baldwin",
+  "Category": "fear",
+  "Quotes": "Love takes off masks that we fear we cannot live without and know we cannot live within."
+},
+{
+  "Author": "Socrates",
+  "Category": "fear",
+  "Quotes": "Where there is reverence there is fear, but there is not reverence everywhere that there is fear, because fear presumably has a wider extension than reverence."
+},
+{
+  "Author": "George Bernard Shaw",
+  "Category": "fear",
+  "Quotes": "You are going to let the fear of poverty govern you life and your reward will be that you will eat, but you will not live."
+},
+{
+  "Author": "Barack Obama",
+  "Category": "fear",
+  "Quotes": "On every front there are clear answers out there that can make this country stronger, but we're going to break through the fear and the frustration people are feeling. Our job is to make sure that even as we make progress, that we are also giving people a sense of hope and vision for the future."
+},
+{
+  "Author": "Oprah Winfrey",
+  "Category": "fear",
+  "Quotes": "I believe that every single event in life happens in an opportunity to choose love over fear."
+},
+{
+  "Author": "Alan Watts",
+  "Category": "fear",
+  "Quotes": "No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now."
+},
+{
+  "Author": "Mignon McLaughlin",
+  "Category": "fear",
+  "Quotes": "It's the most unhappy people who most fear change."
+},
+{
+  "Author": "Noam Chomsky",
+  "Category": "fear",
+  "Quotes": "The more you can increase fear of drugs and crime, welfare mothers, immigrants and aliens, the more you control all the people."
+},
+{
+  "Author": "Nelson Mandela",
+  "Category": "fear",
+  "Quotes": "Courageous people do not fear forgiving, for the sake of peace."
+},
+{
+  "Author": "Bill Gates",
+  "Category": "fear",
+  "Quotes": "People always fear change. People feared electricity when it was invented, didn't they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters."
+},
+{
+  "Author": "Nelson Mandela",
+  "Category": "fear",
+  "Quotes": "There is nothing I fear more than waking up without a program that will help me bring a little happiness to those with no resources, those who are poor, illiterate, and ridden with terminal disease."
+},
+{
+  "Author": "Elbert Hubbard",
+  "Category": "fear",
+  "Quotes": "Fear is the thought of admitted inferiority."
+},
+{
+  "Author": "Elbert Hubbard",
+  "Category": "fear",
+  "Quotes": "The thing we fear we bring to pass."
+},
+{
+  "Author": "Elbert Hubbard",
+  "Category": "fear",
+  "Quotes": "Fear clogs faith liberates."
+},
+{
+  "Author": "Plato",
+  "Category": "fear",
+  "Quotes": "Courage is knowing what not to fear."
+},
+{
+  "Author": "Plato",
+  "Category": "fear",
+  "Quotes": "When the tyrant has disposed of foreign enemies by conquest or treaty, and there is nothing more to fear from them, then he is always stirring up some war or other, in order that the people may require a leader."
+},
+{
+  "Author": "Marianne Williamson",
+  "Category": "fear",
+  "Quotes": "As we let our light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence actually liberates others."
+},
+{
+  "Author": "Elisabeth Kubler-Ross",
+  "Category": "fear",
+  "Quotes": "We need to teach the next generation of children from day one that they are responsible for their lives. Mankind's greatest gift, also its greatest curse, is that we have free choice. We can make our choices built from love or from fear."
+},
+{
+  "Author": "Ellen DeGeneres",
+  "Category": "fear",
+  "Quotes": "The world is full of a lot of fear and a lot of negativity, and a lot of judgment. I just think people need to start shifting into joy and happiness. As corny as it sounds, we need to make a shift."
+},
+{
+  "Author": "Shirley MacLaine",
+  "Category": "fear",
+  "Quotes": "Fear makes strangers of people who would be friends."
+},
+{
+  "Author": "Dale Carnegie",
+  "Category": "fear",
+  "Quotes": "Fear doesn't exist anywhere except in the mind."
+},
+{
+  "Author": "Dale Carnegie",
+  "Category": "fear",
+  "Quotes": "Do the thing you fear to do and keep on doing it... that is the quickest and surest way ever yet discovered to conquer fear."
+},
+{
+  "Author": "George S. Patton",
+  "Category": "fear",
+  "Quotes": "Courage is fear holding on a minute longer."
+},
+{
+  "Author": "Baruch Spinoza",
+  "Category": "fear",
+  "Quotes": "Fear cannot be without hope nor hope without fear."
+},
+{
+  "Author": "George S. Patton",
+  "Category": "fear",
+  "Quotes": "If we take the generally accepted definition of bravery as a quality which knows no fear, I have never seen a brave man. All men are frightened. The more intelligent they are, the more they are frightened."
+},
+{
+  "Author": "Jiddu Krishnamurti",
+  "Category": "fear",
+  "Quotes": "A man who is not afraid is not aggressive, a man who has no sense of fear of any kind is really a free, a peaceful man."
+},
+{
+  "Author": "Saint Augustine",
+  "Category": "fear",
+  "Quotes": "What I needed most was to love and to be loved, eager to be caught. Happily I wrapped those painful bonds around me and sure enough, I would be lashed with the red-hot pokers or jealousy, by suspicions and fear, by burst of anger and quarrels."
+},
+{
+  "Author": "Graham Greene",
+  "Category": "fear",
+  "Quotes": "Writing is a form of therapy sometimes I wonder how all those who do not write, compose or paint can manage to escape the madness, melancholia, the panic and fear which is inherent in a human situation."
+},
+{
+  "Author": "Voltaire",
+  "Category": "fear",
+  "Quotes": "The safest course is to do nothing against one's conscience. With this secret, we can enjoy life and have no fear from death."
+},
+{
+  "Author": "Brian Tracy",
+  "Category": "fear",
+  "Quotes": "The key to success is to focus our conscious mind on things we desire not things we fear."
+},
+{
+  "Author": "Charles Stanley",
+  "Category": "fear",
+  "Quotes": "Our heavenly Father understands our disappointment, suffering, pain, fear, and doubt. He is always there to encourage our hearts and help us understand that He's sufficient for all of our needs. When I accepted this as an absolute truth in my life, I found that my worrying stopped."
+},
+{
+  "Author": "Oprah Winfrey",
+  "Category": "fear",
+  "Quotes": "The thing you fear most has no power. Your fear of it is what has the power. Facing the truth really will set you free."
+},
+{
+  "Author": "Ernest Hemingway",
+  "Category": "fear",
+  "Quotes": "Fear of death increases in exact proportion to increase in wealth."
+},
+{
+  "Author": "Napoleon Bonaparte",
+  "Category": "fear",
+  "Quotes": "The people to fear are not those who disagree with you, but those who disagree with you and are too cowardly to let you know."
+},
+{
+  "Author": "Plato",
+  "Category": "fear",
+  "Quotes": "Injustice is censured because the censures are afraid of suffering, and not from any fear which they have of doing injustice."
+},
+{
+  "Author": "George Washington Carver",
+  "Category": "fear",
+  "Quotes": "Fear of something is at the root of hate for others, and hate within will eventually destroy the hater."
+},
+{
+  "Author": "Plato",
+  "Category": "fear",
+  "Quotes": "Know one knows whether death, which people fear to be the greatest evil, may not be the greatest good."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "To conquer fear is the beginning of wisdom."
+},
+{
+  "Author": "H. L. Mencken",
+  "Category": "fear",
+  "Quotes": "The one permanent emotion of the inferior man is fear - fear of the unknown, the complex, the inexplicable. What he wants above everything else is safety."
+},
+{
+  "Author": "Elizabeth Cady Stanton",
+  "Category": "fear",
+  "Quotes": "The moment we begin to fear the opinions of others and hesitate to tell the truth that is in us, and from motives of policy are silent when we should speak, the divine floods of light and life no longer flow into our souls."
+},
+{
+  "Author": "Napoleon Bonaparte",
+  "Category": "fear",
+  "Quotes": "Men are moved by two levers only: fear and self interest."
+},
+{
+  "Author": "Johnny Depp",
+  "Category": "fear",
+  "Quotes": "The beauty, the poetry of the fear in their eyes. I didn't mind going to jail for, what, five, six hours? It was absolutely worth it."
+},
+{
+  "Author": "Dale Carnegie",
+  "Category": "fear",
+  "Quotes": "You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn't exist anywhere except in the mind."
+},
+{
+  "Author": "Dale Carnegie",
+  "Category": "fear",
+  "Quotes": "Fear not those who argue but those who dodge."
+},
+{
+  "Author": "Babe Ruth",
+  "Category": "fear",
+  "Quotes": "Never let the fear of striking out get in your way."
+},
+{
+  "Author": "Charles Stanley",
+  "Category": "fear",
+  "Quotes": "God will never direct us to be prideful, arrogant and unforgiving, immoral or slothful or full of fear. We step into these things because we are insensitive to the leadership of the Holy Spirit within us."
+},
+{
+  "Author": "Earl Nightingale",
+  "Category": "fear",
+  "Quotes": "Don't let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway we might just as well put that passing time to the best possible use."
+},
+{
+  "Author": "John Adams",
+  "Category": "fear",
+  "Quotes": "Fear is the foundation of most governments."
+},
+{
+  "Author": "Voltaire",
+  "Category": "fear",
+  "Quotes": "Fear follows crime and is its punishment."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "Boredom is... a vital problem for the moralist, since half the sins of mankind are caused by the fear of it."
+},
+{
+  "Author": "Warren Buffett",
+  "Category": "fear",
+  "Quotes": "Americans are in a cycle of fear which leads to people not wanting to spend and not wanting to make investments, and that leads to more fear. We'll break out of it. It takes time."
+},
+{
+  "Author": "Martin Luther",
+  "Category": "fear",
+  "Quotes": "I more fear what is within me than what comes from without."
+},
+{
+  "Author": "Richard Bach",
+  "Category": "fear",
+  "Quotes": "The meaning I picked, the one that changed my life: Overcome fear, behold wonder."
+},
+{
+  "Author": "Thomas Paine",
+  "Category": "fear",
+  "Quotes": "The strength and power of despotism consists wholly in the fear of resistance."
+},
+{
+  "Author": "Patrick Henry",
+  "Category": "fear",
+  "Quotes": "Fear is the passion of slaves."
+},
+{
+  "Author": "Jodie Foster",
+  "Category": "fear",
+  "Quotes": "It's an interesting combination: Having a great fear of being alone, and having a desperate need for solitude and the solitary experience. That's always been a tug of war for me."
+},
+{
+  "Author": "H. L. Mencken",
+  "Category": "fear",
+  "Quotes": "Puritanism. The haunting fear that someone, somewhere, may be happy."
+},
+{
+  "Author": "Francis of Assisi",
+  "Category": "fear",
+  "Quotes": "Where there is charity and wisdom, there is neither fear nor ignorance."
+},
+{
+  "Author": "Clint Eastwood",
+  "Category": "fear",
+  "Quotes": "Whether you like it or not, you're forced to come to the realisation that death is out there. But I don't fear death, I'm a fatalist. I believe when it's your time, that's it. It's the hand you're dealt."
+},
+{
+  "Author": "Harry S. Truman",
+  "Category": "fear",
+  "Quotes": "America was not built on fear. America was built on courage, on imagination and an unbeatable determination to do the job at hand."
+},
+{
+  "Author": "Henry Wadsworth Longfellow",
+  "Category": "fear",
+  "Quotes": "Look not mournfully into the past, it comes not back again. Wisely improve the present, it is thine. Go forth to meet the shadowy future without fear and with a manly heart."
+},
+{
+  "Author": "John C. Maxwell",
+  "Category": "fear",
+  "Quotes": "The greatest mistake we make is living in constant fear that we will make one."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom."
+},
+{
+  "Author": "Mitt Romney",
+  "Category": "fear",
+  "Quotes": "The Cuban people still live in constant fear of a brutal totalitarian regime that has demonstrated time and again its utter disregard for basic human dignity. The fight for a free Cuba has gone on for far too long."
+},
+{
+  "Author": "J. K. Rowling",
+  "Category": "fear",
+  "Quotes": "I was set free because my greatest fear had been realized, and I still had a daughter who I adored, and I had an old typewriter and a big idea. And so rock bottom became a solid foundation on which I rebuilt my life."
+},
+{
+  "Author": "T. S. Eliot",
+  "Category": "fear",
+  "Quotes": "I will show you fear in a handful of dust."
+},
+{
+  "Author": "Isaac Asimov",
+  "Category": "fear",
+  "Quotes": "I do not fear computers. I fear the lack of them."
+},
+{
+  "Author": "Richard Bach",
+  "Category": "fear",
+  "Quotes": "Listen to what you know instead of what you fear."
+},
+{
+  "Author": "George Orwell",
+  "Category": "fear",
+  "Quotes": "It is almost universally felt that when we call a country democratic we are praising it consequently, the defenders of every kind of regime claim that it is a democracy, and fear that they might have to stop using the word if it were tied down to any one meaning."
+},
+{
+  "Author": "Douglas MacArthur",
+  "Category": "fear",
+  "Quotes": "It is part of the general pattern of misguided policy that our country is now geared to an arms economy which was bred in an artificially induced psychosis of war hysteria and nurtured upon an incessant propaganda of fear."
+},
+{
+  "Author": "George S. Patton",
+  "Category": "fear",
+  "Quotes": "There is a time to take counsel of your fears, and there is a time to never listen to any fear."
+},
+{
+  "Author": "Julius Caesar",
+  "Category": "fear",
+  "Quotes": "I love the name of honor, more than I fear death."
+},
+{
+  "Author": "Niccolo Machiavelli",
+  "Category": "fear",
+  "Quotes": "Men shrink less from offending one who inspires love than one who inspires fear."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "Collective fear stimulates herd instinct, and tends to produce ferocity toward those who are not regarded as members of the herd."
+},
+{
+  "Author": "Lucius Annaeus Seneca",
+  "Category": "fear",
+  "Quotes": "Where fear is, happiness is not."
+},
+{
+  "Author": "Audre Lorde",
+  "Category": "fear",
+  "Quotes": "I write for those women who do not speak, for those who do not have a voice because they were so terrified, because we are taught to respect fear more than ourselves. We've been taught that silence would save us, but it won't."
+},
+{
+  "Author": "J. K. Rowling",
+  "Category": "fear",
+  "Quotes": "Poverty entails fear and stress and sometimes depression. It meets a thousand petty humiliations and hardships. Climbing out of poverty by your own efforts that is something on which to pride yourself but poverty itself is romanticized by fools."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric."
+},
+{
+  "Author": "Jack Layton",
+  "Category": "fear",
+  "Quotes": "My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic. And we'll change the world."
+},
+{
+  "Author": "Alexander Pope",
+  "Category": "fear",
+  "Quotes": "Fools rush in where angels fear to tread."
+},
+{
+  "Author": "Napoleon Bonaparte",
+  "Category": "fear",
+  "Quotes": "You must not fear death, my lads defy him, and you drive him into the enemy's ranks."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "Neither a man nor a crowd nor a nation can be trusted to act humanely or to think sanely under the influence of a great fear."
+},
+{
+  "Author": "Abdul Kalam",
+  "Category": "fear",
+  "Quotes": "Unless India stands up to the world, no one will respect us. In this world, fear has no place. Only strength respects strength."
+},
+{
+  "Author": "Tecumseh",
+  "Category": "fear",
+  "Quotes": "Live your life that the fear of death can never enter your heart."
+},
+{
+  "Author": "Bertrand Russell",
+  "Category": "fear",
+  "Quotes": "None but a coward dares to boast that he has never known fear."
+},
+{
+  "Author": "Napoleon Bonaparte",
+  "Category": "fear",
+  "Quotes": "There are only two forces that unite men - fear and interest."
+},
+{
+  "Author": "Rabindranath Tagore",
+  "Category": "fear",
+  "Quotes": "Those who own much have much to fear."
+},
+{
+  "Author": "Ambrose Bierce",
+  "Category": "fear",
+  "Quotes": "Religion. A daughter of Hope and Fear, explaining to Ignorance the nature of the Unknowable."
+},
+{
+  "Author": "Douglas MacArthur",
+  "Category": "fear",
+  "Quotes": "Our government has kept us in a perpetual state of fear - kept us in a continuous stampede of patriotic fervor - with the cry of grave national emergency."
+},
+{
+  "Author": "Sylvia Browne",
+  "Category": "fear",
+  "Quotes": "The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name."
+},
+{
+  "Author": "Tacitus",
+  "Category": "fear",
+  "Quotes": "Fear is not in the habit of speaking truth when perfect sincerity is expected, perfect freedom must be allowed nor has anyone who is apt to be angry when he hears the truth any cause to wonder that he does not hear it."
+},
+{
+  "Author": "Henry Miller",
+  "Category": "fear",
+  "Quotes": "Why are we so full of restraint? Why do we not give in all directions? Is it fear of losing ourselves? Until we do lose ourselves there is no hope of finding ourselves."
+},
+{
+  "Author": "Lucius Annaeus Seneca",
+  "Category": "fear",
+  "Quotes": "There is none made so great, but he may both need the help and service, and stand in fear of the power and unkindness, even of the meanest of mortals."
+},
+{
+  "Author": "Jean-Paul Sartre",
+  "Category": "fear",
+  "Quotes": "Fear? If I have gained anything by damning myself, it is that I no longer have anything to fear."
+},
+{
+  "Author": "Nikos Kazantzakis",
+  "Category": "fear",
+  "Quotes": "I hope for nothing. I fear nothing. I am free."
+},
+{
+  "Author": "Jiddu Krishnamurti",
+  "Category": "fear",
+  "Quotes": "The constant assertion of belief is an indication of fear."
+},
+{
+  "Author": "Hillary Clinton",
+  "Category": "fear",
+  "Quotes": "You feel sometimes when you hear analysts and knowledgeable people talking about Iran that they fear so much about the survival of the regime, because deep down it's not a legitimate regime, it doesn't represent the will of the people, it's kind of morphed into kind of a military theocracy."
+},
+{
+  "Author": "Javier Bardem",
+  "Category": "fear",
+  "Quotes": "I do respect people's faith, but I don't respect their manipulation of that faith in order to create fear and control."
+},
+{
+  "Author": "Epicurus",
+  "Category": "fear",
+  "Quotes": "It is better for you to be free of fear lying upon a pallet, than to have a golden couch and a rich table and be full of trouble."
+},
+{
+  "Author": "Max Frisch",
+  "Category": "fear",
+  "Quotes": "Jealousy is the fear of comparison."
+},
+{
+  "Author": "Robert Mugabe",
+  "Category": "fear",
+  "Quotes": "Our party must continue to strike fear in the heart of the white man, our real enemy!"
+},
+{
+  "Author": "Alanis Morissette",
+  "Category": "fear",
+  "Quotes": "We're taught to be ashamed of confusion, anger, fear and sadness, and to me they're of equal value to happiness, excitement and inspiration."
+},
+{
+  "Author": "Lord Chesterfield",
+  "Category": "fear",
+  "Quotes": "The heart never grows better by age I fear rather worse, always harder. A young liar will be an old one, and a young knave will only be a greater knave as he grows older."
+},
+{
+  "Author": "Epictetus",
+  "Category": "fear",
+  "Quotes": "It is not death or pain that is to be dreaded, but the fear of pain or death."
+},
+{
+  "Author": "Leonardo da Vinci",
+  "Category": "fear",
+  "Quotes": "Just as courage imperils life, fear protects it."
+},
+{
+  "Author": "Viktor E. Frankl",
+  "Category": "fear",
+  "Quotes": "Fear may come true that which one is afraid of."
+},
+{
+  "Author": "Abu Bakr",
+  "Category": "fear",
+  "Quotes": "The more knowledge you have, the greater will be your fear of Allah."
+},
+{
+  "Author": "James Thurber",
+  "Category": "fear",
+  "Quotes": "Let us not look back in anger, nor forward in fear, but around in awareness."
+},
+{
+  "Author": "Simone de Beauvoir",
+  "Category": "fear",
+  "Quotes": "In itself, homosexuality is as limiting as heterosexuality: the ideal should be to be capable of loving a woman or a man either, a human being, without feeling fear, restraint, or obligation."
+},
+{
+  "Author": "Pearl S. Buck",
+  "Category": "fear",
+  "Quotes": "Our society must make it right and possible for old people not to fear the young or be deserted by them, for the test of a civilization is the way that it cares for its helpless members."
+},
+{
+  "Author": "Cat Stevens",
+  "Category": "fear",
+  "Quotes": "In a World where people are surrounded by darkness, ignorance and fear, it is a sign of hope to be celebrating Islam's message of peace and light, and the last great Messenger, born and chosen to deliver them to all mankind."
+},
+{
+  "Author": "John Steinbeck",
+  "Category": "fear",
+  "Quotes": "Power does not corrupt. Fear corrupts... perhaps the fear of a loss of power."
+},
+{
+  "Author": "George W. Bush",
+  "Category": "fear",
+  "Quotes": "Everywhere that freedom stirs, let tyrants fear."
+},
+{
+  "Author": "Margaret Mead",
+  "Category": "fear",
+  "Quotes": "It is an open question whether any behavior based on fear of eternal punishment can be regarded as ethical or should be regarded as merely cowardly."
+},
+{
+  "Author": "W. Clement Stone",
+  "Category": "fear",
+  "Quotes": "Thinking will not overcome fear but action will."
+},
+{
+  "Author": "Francois de La Rochefoucauld",
+  "Category": "fear",
+  "Quotes": "Repentance is not so much remorse for what we have done as the fear of the consequences."
+},
+{
+  "Author": "Wangari Maathai",
+  "Category": "fear",
+  "Quotes": "African women in general need to know that it's OK for them to be the way they are - to see the way they are as a strength, and to be liberated from fear and from silence."
+},
+{
+  "Author": "Benjamin Disraeli",
+  "Category": "fear",
+  "Quotes": "Taking a new step, uttering a new word, is what people fear most."
+},
+{
+  "Author": "Isoroku Yamamoto",
+  "Category": "fear",
+  "Quotes": "I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve."
+},
+{
+  "Author": "Xun Zi",
+  "Category": "fear",
+  "Quotes": "In order to properly understand the big picture, everyone should fear becoming mentally clouded and obsessed with one small section of truth."
+},
+{
+  "Author": "Edmund Burke",
+  "Category": "fear",
+  "Quotes": "No passion so effectually robs the mind of all its powers of acting and reasoning as fear."
+},
+{
+  "Author": "Jesse Jackson",
+  "Category": "fear",
+  "Quotes": "At the end of the day, we must go forward with hope and not backward by fear and division."
+},
+{
+  "Author": "Dwight D. Eisenhower",
+  "Category": "fear",
+  "Quotes": "Few women, I fear, have had such reason as I have to think the long sad years of youth were worth living for the sake of middle age."
+},
+{
+  "Author": "Bertolt Brecht",
+  "Category": "fear",
+  "Quotes": "Do not fear death so much but rather the inadequate life."
+},
+{
+  "Author": "Benjamin Disraeli",
+  "Category": "fear",
+  "Quotes": "Let the fear of a danger be a spur to prevent it he that fears not, gives advantage to the danger."
+},
+{
+  "Author": "Matthew Henry",
+  "Category": "fear",
+  "Quotes": "He whose head is in heaven need not fear to put his feet into the grave."
+},
+{
+  "Author": "Marcus Tullius Cicero",
+  "Category": "fear",
+  "Quotes": "Fear is not a lasting teacher of duty."
+},
+{
+  "Author": "Francois de La Rochefoucauld",
+  "Category": "fear",
+  "Quotes": "Only the contemptible fear contempt."
+},
+{
+  "Author": "Francois de La Rochefoucauld",
+  "Category": "fear",
+  "Quotes": "Love can no more continue without a constant motion than fire can and when once you take hope and fear away, you take from it its very life and being."
+},
+{
+  "Author": "Will Durst",
+  "Category": "fear",
+  "Quotes": "Comedy is defiance. It's a snort of contempt in the face of fear and anxiety. And it's the laughter that allows hope to creep back on the inhale."
+},
+{
+  "Author": "Ayrton Senna",
+  "Category": "fear",
+  "Quotes": "Fear is exciting for me."
+},
+{
+  "Author": "Charles Bronson",
+  "Category": "fear",
+  "Quotes": "The fear really hits you. That's what you feel first. And then it's the anger and frustration. Part of the problem is how little we understand about the ultimate betrayal of the body when it rebels against itself."
+},
+{
+  "Author": "Percy Bysshe Shelley",
+  "Category": "fear",
+  "Quotes": "Fear not for the future, weep not for the past."
+},
+{
+  "Author": "Douglas MacArthur",
+  "Category": "fear",
+  "Quotes": "Our country is now geared to an arms economy bred in an artificially induced psychosis of war hysteria and an incessant propaganda of fear."
+},
+{
+  "Author": "Hedy Lamarr",
+  "Category": "fear",
+  "Quotes": "I don't fear death because I don't fear anything I don't understand. When I start to think about it, I order a massage and it goes away."
+},
+{
+  "Author": "George Eliot",
+  "Category": "fear",
+  "Quotes": "The only failure one should fear, is not hugging to the purpose they see as best."
+},
+{
+  "Author": "George Eliot",
+  "Category": "fear",
+  "Quotes": "I'm proof against that word failure. I've seen behind it. The only failure a man ought to fear is failure of cleaving to the purpose he sees to be best."
+},
+{
+  "Author": "Julius Caesar",
+  "Category": "fear",
+  "Quotes": "It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."
+},
+{
+  "Author": "Jackson Pollock",
+  "Category": "fear",
+  "Quotes": "I have no fear of making changes, destroying the image, etc., because the painting has a life of its own."
+},
+{
+  "Author": "William Jennings Bryan",
+  "Category": "fear",
+  "Quotes": "The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you."
+},
+{
+  "Author": "H. P. Lovecraft",
+  "Category": "fear",
+  "Quotes": "I fear my enthusiasm flags when real work is demanded of me."
+},
+{
+  "Author": "John Calvin",
+  "Category": "fear",
+  "Quotes": "Seeing that a Pilot steers the ship in which we sail, who will never allow us to perish even in the midst of shipwrecks, there is no reason why our minds should be overwhelmed with fear and overcome with weariness."
+},
+{
+  "Author": "Martha Beck",
+  "Category": "fear",
+  "Quotes": "Hopeful thinking can get you out of your fear zone and into your appreciation zone."
+},
+{
+  "Author": "Stephen King",
+  "Category": "fear",
+  "Quotes": "Americans are apocalyptic by nature. The reason why is that we've always had so much, so we live in deadly fear that people are going to take it away from us."
+},
+{
+  "Author": "James Allen",
+  "Category": "fear",
+  "Quotes": "They who have conquered doubt and fear have conquered failure."
+},
+{
+  "Author": "Chauncey Depew",
+  "Category": "fear",
+  "Quotes": "Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crackpot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost."
+},
+{
+  "Author": "Plutarch",
+  "Category": "fear",
+  "Quotes": "Courage consists not in hazarding without fear but being resolutely minded in a just cause."
+},
+{
+  "Author": "Abraham Maslow",
+  "Category": "fear",
+  "Quotes": "We fear to know the fearsome and unsavory aspects of ourselves, but we fear even more to know the godlike in ourselves."
+},
+{
+  "Author": "Noam Chomsky",
+  "Category": "fear",
+  "Quotes": "The public is not to see where power lies, how it shapes policy, and for what ends. Rather, people are to hate and fear one another."
+},
+{
+  "Author": "Alice Walker",
+  "Category": "fear",
+  "Quotes": "As you know from school, it's when you have not prepared for the test that you have the fear of failing. And if you have prepared, even if you fail, you've done your best."
+},
+{
+  "Author": "Harry S. Truman",
+  "Category": "fear",
+  "Quotes": "We shall never be able to remove suspicion and fear as potential causes of war until communication is permitted to flow, free and open, across international boundaries."
+},
+{
+  "Author": "Louis E. Boone",
+  "Category": "fear",
+  "Quotes": "Don't fear failure so much that you refuse to try new things. The saddest summary of a life contains three descriptions: could have, might have, and should have."
+},
+{
+  "Author": "Huey Newton",
+  "Category": "fear",
+  "Quotes": "My fear was not of death itself, but a death without meaning."
+},
+{
+  "Author": "Steve Irwin",
+  "Category": "fear",
+  "Quotes": "I have no fear of losing my life - if I have to save a koala or a crocodile or a kangaroo or a snake, mate, I will save it."
+},
+{
+  "Author": "Francis Bacon",
+  "Category": "fear",
+  "Quotes": "Men fear death as children fear to go in the dark and as that natural fear in children is increased by tales, so is the other."
+},
+{
+  "Author": "Jimmy Carter",
+  "Category": "fear",
+  "Quotes": "If you fear making anyone mad, then you ultimately probe for the lowest common denominator of human achievement."
+},
+{
+  "Author": "Bo Bennett",
+  "Category": "fear",
+  "Quotes": "While we are focusing on fear, worry, or hate, it is not possible for us to be experiencing happiness, enthusiasm or love."
+},
+{
+  "Author": "William Congreve",
+  "Category": "fear",
+  "Quotes": "Fear comes from uncertainty. When we are absolutely certain, whether of our worth or worthlessness, we are almost impervious to fear."
+},
+{
+  "Author": "Emile Zola",
+  "Category": "fear",
+  "Quotes": "The fate of animals is of greater importance to me than the fear of appearing ridiculous it is indissolubly connected with the fate of men."
+},
+{
+  "Author": "Taylor Swift",
+  "Category": "fear",
+  "Quotes": "I'm intimidated by the fear of being average."
+},
+{
+  "Author": "Paul Ryan",
+  "Category": "fear",
+  "Quotes": "Exploiting people's emotions of fear, envy and anxiety is not hope, it's not change, it's partisanship. We don't need partisanship. We don't need demagoguery, we need solutions."
+},
+{
+  "Author": "Samuel Butler",
+  "Category": "fear",
+  "Quotes": "Some men love truth so much that they seem to be in continual fear lest she should catch a cold on overexposure."
+},
+{
+  "Author": "George W. Bush",
+  "Category": "fear",
+  "Quotes": "The course of this conflict is not known, yet its outcome is certain. Freedom and fear, justice and cruelty, have always been at war, and we know that God is not neutral between them."
+},
+{
+  "Author": "Jim DeMint",
+  "Category": "fear",
+  "Quotes": "The hope and change the Democrats had in mind was nothing more than a retread of the failed and discredited socialist policies that have been the enemy of freedom for centuries all over the world. I fear America is teetering towards tyranny."
+},
+{
+  "Author": "Indira Gandhi",
+  "Category": "fear",
+  "Quotes": "If I die a violent death, as some fear and a few are plotting, I know that the violence will be in the thought and the action of the assassins, not in my dying."
+},
+{
+  "Author": "Karl A. Menninger",
+  "Category": "fear",
+  "Quotes": "The voice of the intelligence is drowned out by the roar of fear. It is ignored by the voice of desire. It is contradicted by the voice of shame. It is biased by hate and extinguished by anger. Most of all it is silenced by ignorance."
+},
+{
+  "Author": "Saint Teresa of Avila",
+  "Category": "fear",
+  "Quotes": "I do not fear Satan half so much as I fear those who fear him."
+},
+{
+  "Author": "Mojo Nixon",
+  "Category": "fear",
+  "Quotes": "I can't understand people calling themselves religious and being hateful. If a preacher is preaching hate, to fear God that's not religion, that's not helping humanity, that's organizing an army to defeat somebody."
+},
+{
+  "Author": "Michel de Montaigne",
+  "Category": "fear",
+  "Quotes": "The thing I fear most is fear."
+},
+{
+  "Author": "Horace",
+  "Category": "fear",
+  "Quotes": "To have a great man for a friend seems pleasant to those who have never tried it those who have, fear it."
+},
+{
+  "Author": "David Herbert Lawrence",
+  "Category": "fear",
+  "Quotes": "The Christian fear of the pagan outlook has damaged the whole consciousness of man."
+},
+{
+  "Author": "Anwar Sadat",
+  "Category": "fear",
+  "Quotes": "Fear is, I believe, a most effective tool in destroying the soul of an individual - and the soul of a people."
+},
+{
+  "Author": "Florence Nightingale",
+  "Category": "fear",
+  "Quotes": "How very little can be done under the spirit of fear."
+},
+{
+  "Author": "Morihei Ueshiba",
+  "Category": "fear",
+  "Quotes": "Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."
+},
+{
+  "Author": "J. K. Rowling",
+  "Category": "fear",
+  "Quotes": "Fear of a name increases fear of the thing itself."
+},
+{
+  "Author": "Ben Okri",
+  "Category": "fear",
+  "Quotes": "Stories can conquer fear, you know. They can make the heart bigger."
+},
+{
+  "Author": "Lord Byron",
+  "Category": "fear",
+  "Quotes": "This man is freed from servile bands, Of hope to rise, or fear to fall Lord of himself, though not of lands, And leaving nothing, yet hath all."
+},
+{
+  "Author": "Algernon Charles Swinburne",
+  "Category": "fear",
+  "Quotes": "From too much love of living, From hope and fear set free, We thank with brief thanksgiving Whatever gods may be That no life lives for ever That dead men rise up never That even the weariest river Winds somewhere safe to sea."
+},
+{
+  "Author": "Dan Millman",
+  "Category": "fear",
+  "Quotes": "Willpower is the key to success. Successful people strive no matter what they feel by applying their will to overcome apathy, doubt or fear."
+},
+{
+  "Author": "Thomas Fuller",
+  "Category": "fear",
+  "Quotes": "Scalded cats fear even cold water."
+},
+{
+  "Author": "Thomas Fuller",
+  "Category": "fear",
+  "Quotes": "Cruelty is a tyrant that's always attended with fear."
+},
+{
+  "Author": "Aung San Suu Kyi",
+  "Category": "fear",
+  "Quotes": "It is not power that corrupts but fear. Fear of losing power corrupts those who wield it and fear of the scourge of power corrupts those who are subject to it."
+},
+{
+  "Author": "Anton Chekhov",
+  "Category": "fear",
+  "Quotes": "The thirst for powerful sensations takes the upper hand both over fear and over compassion for the grief of others."
+},
+{
+  "Author": "Richard M. Nixon",
+  "Category": "fear",
+  "Quotes": "People react to fear, not love they don't teach that in Sunday School, but it's true."
+},
+{
+  "Author": "Fyodor Dostoevsky",
+  "Category": "fear",
+  "Quotes": "Realists do not fear the results of their study."
+},
+{
+  "Author": "Robert Green Ingersoll",
+  "Category": "fear",
+  "Quotes": "When the will defies fear, when duty throws the gauntlet down to fate, when honor scorns to compromise with death - that is heroism."
+},
+{
+  "Author": "Simone Weil",
+  "Category": "fear",
+  "Quotes": "As soon as men know that they can kill without fear of punishment or blame, they kill or at least they encourage killers with approving smiles."
+},
+{
+  "Author": "Stendhal",
+  "Category": "fear",
+  "Quotes": "All religions are founded on the fear of the many and the cleverness of the few."
+},
+{
+  "Author": "Francois Rabelais",
+  "Category": "fear",
+  "Quotes": "To good and true love fear is forever affixed."
+},
+{
+  "Author": "Amelia Barr",
+  "Category": "fear",
+  "Quotes": "Events that are predestined require but little management. They manage themselves. They slip into place while we sleep, and suddenly we are aware that the thing we fear to attempt, is already accomplished."
+},
+{
+  "Author": "Nicolaus Copernicus",
+  "Category": "fear",
+  "Quotes": "Therefore, when I considered this carefully, the contempt which I had to fear because of the novelty and apparent absurdity of my view, nearly induced me to abandon utterly the work I had begun."
+},
+{
+  "Author": "Alexander Pope",
+  "Category": "fear",
+  "Quotes": "For fools rush in where angels fear to tread."
+},
+{
+  "Author": "Sophocles",
+  "Category": "fear",
+  "Quotes": "A word does not frighten the man who, in acting, feels no fear."
+},
+{
+  "Author": "Corrie Ten Boom",
+  "Category": "fear",
+  "Quotes": "Worry is a cycle of inefficient thoughts whirling around a center of fear."
+},
+{
+  "Author": "Joseph Conrad",
+  "Category": "fear",
+  "Quotes": "Perhaps life is just that... a dream and a fear."
+},
+{
+  "Author": "Kevin Bacon",
+  "Category": "fear",
+  "Quotes": "I really believe that all of us have a lot of darkness in our souls. Anger, rage, fear, sadness. I don't think that's only reserved for people who have horrible upbringings. I think it really exists and is part of the human condition. I think in the course of your life you figure out ways to deal with that."
+},
+{
+  "Author": "William E. Gladstone",
+  "Category": "fear",
+  "Quotes": "Liberalism is trust of the people tempered by prudence. Conservatism is distrust of the people tempered by fear."
+},
+{
+  "Author": "Henry Miller",
+  "Category": "fear",
+  "Quotes": "There is nothing strange about fear: no matter in what guise it presents itself it is something with which we are all so familiar that when a man appears who is without it we are at once enslaved by him."
+},
+{
+  "Author": "Mel Brooks",
+  "Category": "fear",
+  "Quotes": "Everything we do in life is based on fear, especially love."
+},
+{
+  "Author": "Sylvester Stallone",
+  "Category": "fear",
+  "Quotes": "I have a lack of fear, whereas in the past the fear of failure was a powerful motivator. Anyway, I have great expectations for the future, but I just don't know if I'm the monarch of all I survey."
+},
+{
+  "Author": "Andrew Jackson",
+  "Category": "fear",
+  "Quotes": "Fear not, the people may be deluded for a moment, but cannot be corrupted."
+},
+{
+  "Author": "Thomas Huxley",
+  "Category": "fear",
+  "Quotes": "The results of political changes are hardly ever those which their friends hope or their foes fear."
+},
+{
+  "Author": "Thomas Huxley",
+  "Category": "fear",
+  "Quotes": "I do not say think as I think, but think in my way. Fear no shadows, least of all in that great spectre of personal unhappiness which binds half the world to orthodoxy."
+},
+{
+  "Author": "Horace Mann",
+  "Category": "fear",
+  "Quotes": "When a child can be brought to tears, and not from fear of punishment, but from repentance he needs no chastisement. When the tears begin to flow from the grief of their conduct you can be sure there is an angel nestling in their heart."
+},
+{
+  "Author": "Christopher Columbus",
+  "Category": "fear",
+  "Quotes": "No one should fear to undertake any task in the name of our Saviour, if it is just and if the intention is purely for His holy service."
+},
+{
+  "Author": "Elizabeth I",
+  "Category": "fear",
+  "Quotes": "Fear not, we are of the nature of the lion, and cannot descend to the destruction of mice and such small beasts."
+},
+{
+  "Author": "Nadia Comaneci",
+  "Category": "fear",
+  "Quotes": "I don't run away from a challenge because I am afraid. Instead, I run toward it because the only way to escape fear is to trample it beneath your feet."
+},
+{
+  "Author": "Aleister Crowley",
+  "Category": "fear",
+  "Quotes": "Falsehood is invariably the child of fear in one form or another."
+},
+{
+  "Author": "Christian Nestell Bovee",
+  "Category": "fear",
+  "Quotes": "There is great beauty in going through life without anxiety or fear. Half our fears are baseless, and the other half discreditable."
+},
+{
+  "Author": "Arnold H. Glasow",
+  "Category": "fear",
+  "Quotes": "Fear is the lengthened shadow of ignorance."
+},
+{
+  "Author": "George Saunders",
+  "Category": "fear",
+  "Quotes": "The scariest thought in the world is that someday I'll wake up and realize I've been sleepwalking through my life: underappreciating the people I love, making the same hurtful mistakes over and over, a slave to neuroses, fear, and the habitual."
+},
+{
+  "Author": "George Santayana",
+  "Category": "fear",
+  "Quotes": "That fear first created the gods is perhaps as true as anything so brief could be on so great a subject."
+},
+{
+  "Author": "Joseph Chilton Pearce",
+  "Category": "fear",
+  "Quotes": "To live a creative life, we must lose our fear of being wrong."
+},
+{
+  "Author": "David Herbert Lawrence",
+  "Category": "fear",
+  "Quotes": "Men! The only animal in the world to fear."
+},
+{
+  "Author": "Joseph Addison",
+  "Category": "fear",
+  "Quotes": "The fear of death often proves mortal, and sets people on methods to save their Lives, which infallibly destroy them."
+},
+{
+  "Author": "Jean de La Fontaine",
+  "Category": "fear",
+  "Quotes": "Everyone has his faults which he continually repeats: neither fear nor shame can cure them."
+},
+{
+  "Author": "Merle Shain",
+  "Category": "fear",
+  "Quotes": "Loving can cost a lot but not loving always costs more, and those who fear to love often find that want of love is an emptiness that robs the joy from life."
+},
+{
+  "Author": "Virgil",
+  "Category": "fear",
+  "Quotes": "Fear is proof of a degenerate mind."
+},
+{
+  "Author": "Paul Ryan",
+  "Category": "fear",
+  "Quotes": "President Obama clearly cannot run on his record. All he's offering is more of the same. That's not good. Look at the economy. It's stagnating. And so, what they're now going to try and do is bring this campaign down to little things, distractions, distortions, smear, fear, anger, frustration."
+},
+{
+  "Author": "Stokely Carmichael",
+  "Category": "fear",
+  "Quotes": "The secret of life is to have no fear it's the only way to function."
+},
+{
+  "Author": "Mason Cooley",
+  "Category": "fear",
+  "Quotes": "Cruelty is softened by fear, not pity."
+},
+{
+  "Author": "William Hazlitt",
+  "Category": "fear",
+  "Quotes": "Satirists gain the applause of others through fear, not through love."
+},
+{
+  "Author": "Herodotus",
+  "Category": "fear",
+  "Quotes": "It is better by noble boldness to run the risk of being subject to half the evils we anticipate than to remain in cowardly listlessness for fear of what might happen."
+},
+{
+  "Author": "Gary Ryan Blair",
+  "Category": "fear",
+  "Quotes": "Discipline is based on pride, on meticulous attention to details, and on mutual respect and confidence. Discipline must be a habit so ingrained that it is stronger than the excitement of the goal or the fear of failure."
+},
+{
+  "Author": "Ricky Williams",
+  "Category": "fear",
+  "Quotes": "To talk about balance, it's easier to talk about what's out of balance. And I think anytime that you have any disease, and disease meaning lack of ease, lack of flow... dis-ease. So any time there's disease, you're out of balance, whether it's jealousy, anger, greed, anxiety, fear."
+},
+{
+  "Author": "Albert Ellis",
+  "Category": "fear",
+  "Quotes": "I had used eclectic therapy and behavior therapy on myself at the age of 19 to get over my fear of public speaking and of approaching young women in public."
+},
+{
+  "Author": "Andrew Cohen",
+  "Category": "fear",
+  "Quotes": "Almost all the ideas we have about being a man or being a woman are so burdened with pain, anxiety, fear and self-doubt. For many of us, the confusion around this question is excruciating."
+},
+{
+  "Author": "Charles Stanley",
+  "Category": "fear",
+  "Quotes": "Basically, there are two paths you can walk: faith or fear. It's impossible to simultaneously trust God and not trust God."
+},
+{
+  "Author": "Miles Davis",
+  "Category": "fear",
+  "Quotes": "Do not fear mistakes. There are none."
+},
+{
+  "Author": "George Sewell",
+  "Category": "fear",
+  "Quotes": "Fear is the tax that conscience pays to guilt."
+},
+{
+  "Author": "Henry Van Dyke",
+  "Category": "fear",
+  "Quotes": "A peace that depends on fear is nothing but a suppressed war."
+},
+{
+  "Author": "Joseph Joubert",
+  "Category": "fear",
+  "Quotes": "Love and fear. Everything the father of a family says must inspire one or the other."
+},
+{
+  "Author": "Mason Cooley",
+  "Category": "fear",
+  "Quotes": "While there's life, there's fear."
+},
+{
+  "Author": "Ramakrishna",
+  "Category": "fear",
+  "Quotes": "To work without attachment is to work without the expectation of reward or fear of any punishment in this world or the next. Work so done is a means to the end, and God is the end."
+},
+{
+  "Author": "Sophocles",
+  "Category": "fear",
+  "Quotes": "It is a base thing for a man among the people not to obey those in command. Never in a state can the laws be well administered when fear does not stand firm."
+},
+{
+  "Author": "James Thurber",
+  "Category": "fear",
+  "Quotes": "But what is all this fear of and opposition to Oblivion? What is the matter with the soft Darkness, the Dreamless Sleep?"
+},
+{
+  "Author": "George W. Bush",
+  "Category": "fear",
+  "Quotes": "The terrorists are fighting freedom with all their cunning and cruelty because freedom is their greatest fear - and they should be afraid, because freedom is on the march."
+},
+{
+  "Author": "Warren Farrell",
+  "Category": "fear",
+  "Quotes": "When women hold off from marrying men, we call it independence. When men hold off from marrying women, we call it fear of commitment."
+},
+{
+  "Author": "Tertullian",
+  "Category": "fear",
+  "Quotes": "Nature soaks every evil with either fear or shame."
+},
+{
+  "Author": "Abu Bakr",
+  "Category": "fear",
+  "Quotes": "There is greatness in the fear of God, contentment in faith of God, and honour in humility."
+},
+{
+  "Author": "William Tecumseh Sherman",
+  "Category": "fear",
+  "Quotes": "My aim, then, was to whip the rebels, to humble their pride, to follow them to their inmost recesses, and make them fear and dread us. Fear is the beginning of wisdom."
+},
+{
+  "Author": "Thomas John Watson, Sr.",
+  "Category": "fear",
+  "Quotes": "Follow the path of the unsafe, independent thinker. Expose your ideas to the danger of controversy. Speak your mind and fear less the label of 'crackpot' than the stigma of conformity."
+},
+{
+  "Author": "Erik H. Erikson",
+  "Category": "fear",
+  "Quotes": "Healthy children will not fear life if their elders have integrity enough not to fear death."
+},
+{
+  "Author": "Dorothy Day",
+  "Category": "fear",
+  "Quotes": "Love casts out fear, but we have to get over the fear in order to get close enough to love them."
+},
+{
+  "Author": "Zora Neale Hurston",
+  "Category": "fear",
+  "Quotes": "Grab the broom of anger and drive off the beast of fear."
+},
+{
+  "Author": "James A. Michener",
+  "Category": "fear",
+  "Quotes": "If you reject the food, ignore the customs, fear the religion and avoid the people, you might better stay at home."
+},
+{
+  "Author": "Deepak Chopra",
+  "Category": "fear",
+  "Quotes": "The fear of death comes from limited awareness."
+},
+{
+  "Author": "Robert Fulghum",
+  "Category": "fear",
+  "Quotes": "I fear the boredom that comes with not learning and not taking chances."
+},
+{
+  "Author": "Anthony de Mello",
+  "Category": "fear",
+  "Quotes": "It is a great mystery that though the human heart longs for Truth, in which alone it finds liberation and delight, the first reaction of human beings to Truth is one of hostility and fear!"
+},
+{
+  "Author": "John Dryden",
+  "Category": "fear",
+  "Quotes": "Boldness is a mask for fear, however great."
+},
+{
+  "Author": "John Mayer",
+  "Category": "fear",
+  "Quotes": "My fear is that I go up to the girl of my dreams and say 'I'm sorry, but I've got to say hello to you,' and she slides the stool back and gets up and walks away, saying, 'Not for me, Bub. I don't want anything to do with you.'"
+},
+{
+  "Author": "Portia de Rossi",
+  "Category": "fear",
+  "Quotes": "My feelings for Ellen overrode all of my fear about being out as a lesbian. I had to be with her, and I just figured I'd deal with the other stuff later."
+},
+{
+  "Author": "Jimmy Carter",
+  "Category": "fear",
+  "Quotes": "It's not necessary to fear the prospect of failure but to be determined not to fail."
+},
+{
+  "Author": "Baltasar Gracian",
+  "Category": "fear",
+  "Quotes": "When desire dies, fear is born."
+},
+{
+  "Author": "Gary Busey",
+  "Category": "fear",
+  "Quotes": "Fear is the dark room where the Devil develops his negatives."
+},
+{
+  "Author": "David Hume",
+  "Category": "fear",
+  "Quotes": "A propensity to hope and joy is real riches one to fear and sorrow real poverty."
+},
+{
+  "Author": "Andrew Cohen",
+  "Category": "fear",
+  "Quotes": "Most men are very attached to the idea of being male, and usually experience a lot of fear and insecurity around the idea of being a man. Most women are very identified with their gender, and also experience a tremendous amount of fear and insecurity."
+},
+{
+  "Author": "Alfred Hitchcock",
+  "Category": "fear",
+  "Quotes": "Luck is everything... My good luck in life was to be a really frightened person. I'm fortunate to be a coward, to have a low threshold of fear, because a hero couldn't make a good suspense film."
+},
+{
+  "Author": "Miguel Angel Ruiz",
+  "Category": "fear",
+  "Quotes": "Death is not the biggest fear we have our biggest fear is taking the risk to be alive - the risk to be alive and express what we really are."
+},
+{
+  "Author": "Jean de la Bruyere",
+  "Category": "fear",
+  "Quotes": "The wise person often shuns society for fear of being bored."
+},
+{
+  "Author": "Henry Louis Gates",
+  "Category": "fear",
+  "Quotes": "People are afraid, and when people are afraid, when their pie is shrinking, they look for somebody to hate. They look for somebody to blame. And a real leader speaks to anxiety and to fear and allays those fears, assuages anxiety."
+},
+{
+  "Author": "Drew Barrymore",
+  "Category": "fear",
+  "Quotes": "When you're young, you're always wondering when you're actually going to feel like a grownup. And I think you probably fear it, in a sense, too. There's a danger to feeling like an adult... like this whimsical kid in you is going to die or something. And then all of a sudden, one day you kind of feel like an adult and it's really nice."
+},
+{
+  "Author": "Doug Coupland",
+  "Category": "fear",
+  "Quotes": "You pretend to be more eccentric than you actually are because you fear you are an interchangeable cog."
+},
+{
+  "Author": "Michelle Obama",
+  "Category": "fear",
+  "Quotes": "I am so tired of fear. And I don't want my girls to live in a country, in a world, based on fear."
+},
+{
+  "Author": "Julia Ward Howe",
+  "Category": "fear",
+  "Quotes": "I know not why there is such a melancholy feeling attached to the remembrance of past happiness, except that we fear that the future can have nothing so bright as the past."
+},
+{
+  "Author": "George MacDonald",
+  "Category": "fear",
+  "Quotes": "How strange this fear of death is! We are never frightened at a sunset."
+},
+{
+  "Author": "Adele",
+  "Category": "fear",
+  "Quotes": "I get so nervous on stage I can't help but talk. I try. I try telling my brain: stop sending words to the mouth. But I get nervous and turn into my grandma. Behind the eyes it's pure fear. I find it difficult to believe I'm going to be able to deliver."
+},
+{
+  "Author": "David Icke",
+  "Category": "fear",
+  "Quotes": "The reason most people don't express their individuality and actually deny it, is not fear of what prime ministers think of us or the head of the federal reserve, It's what their families and their friends down at the bar are going to think of them."
+},
+{
+  "Author": "Christian Nestell Bovee",
+  "Category": "fear",
+  "Quotes": "Good men have the fewest fears. He has but one great fear who fears to do wrong he has a thousand who has overcome it."
+},
+{
+  "Author": "Lyndon B. Johnson",
+  "Category": "fear",
+  "Quotes": "The Russians feared Ike. They didn't fear me."
+},
+{
+  "Author": "Erica Jong",
+  "Category": "fear",
+  "Quotes": "I have accepted fear as a part of life - specifically the fear of change... I have gone ahead despite the pounding in the heart that says: turn back."
+},
+{
+  "Author": "Homer",
+  "Category": "fear",
+  "Quotes": "To have a great man for an intimate friend seems pleasant to those who have never tried it those who have, fear it."
+},
+{
+  "Author": "Kathie Lee Gifford",
+  "Category": "fear",
+  "Quotes": "A fear of the unknown keeps a lot of people from leaving bad situations."
+},
+{
+  "Author": "Anna Quindlen",
+  "Category": "fear",
+  "Quotes": "Even as we enumerate their shortcomings, the rigor of raising children ourselves makes clear to us our mothers' incredible strength. We fear both. If they are not strong, who will protect us? If they are not imperfect, how can we equal them?"
+},
+{
+  "Author": "Alanis Morissette",
+  "Category": "fear",
+  "Quotes": "When someone says that I'm angry it's actually a compliment. I have not always been direct with my anger in my relationships, which is part of why I'd write about it in my songs because I had such fear around expressing anger as a woman."
+},
+{
+  "Author": "Clarence Darrow",
+  "Category": "fear",
+  "Quotes": "The origin of the absurd idea of immortal life is easy to discover it is kept alive by hope and fear, by childish faith, and by cowardice."
+},
+{
+  "Author": "Brad Henry",
+  "Category": "fear",
+  "Quotes": "No one should have to choose between medicine and other necessities. No one should have to use the emergency room every time a child gets sick. And no one should have to live in constant fear that a medical problem will become a financial crisis."
+},
+{
+  "Author": "Andrew Jackson",
+  "Category": "fear",
+  "Quotes": "Our government is founded upon the intelligence of the people. I for one do not despair of the republic. I have great confidence in the virtue of the great majority of the people, and I cannot fear the result."
+},
+{
+  "Author": "Desiderius Erasmus",
+  "Category": "fear",
+  "Quotes": "It is wisdom in prosperity, when all is as thou wouldn't have it, to fear and suspect the worst."
+},
+{
+  "Author": "Nikos Kazantzakis",
+  "Category": "fear",
+  "Quotes": "I expect nothing. I fear no one. I am free."
+},
+{
+  "Author": "Robert Kiyosaki",
+  "Category": "fear",
+  "Quotes": "So the Marine Corps really did teach me to conquer fear, and then to go for higher causes, higher purposes."
+},
+{
+  "Author": "Horace Mann",
+  "Category": "fear",
+  "Quotes": "Generosity during life is a very different thing from generosity in the hour of death one proceeds from genuine liberality and benevolence, the other from pride or fear."
+},
+{
+  "Author": "Arsene Wenger",
+  "Category": "fear",
+  "Quotes": "Young players need freedom of expression to develop as creative players... they should be encouraged to try skills without fear of failure."
+},
+{
+  "Author": "William Shenstone",
+  "Category": "fear",
+  "Quotes": "Jealousy is the fear or apprehension of superiority: envy our uneasiness under it."
+},
+{
+  "Author": "Lady Gaga",
+  "Category": "fear",
+  "Quotes": "I just want my family to be safe. Because I am sometimes polarizing, I fear for their safety."
+},
+{
+  "Author": "Peter McWilliams",
+  "Category": "fear",
+  "Quotes": "To overcome a fear, here's all you have to do: realize the fear is there, and do the action you fear anyway."
+},
+{
+  "Author": "Keith Richards",
+  "Category": "fear",
+  "Quotes": "To me, my biggest fear is getting a big head, and that is when I get the hammer. Because it's very easy in this game to believe you're something special."
+},
+{
+  "Author": "Ken Burns",
+  "Category": "fear",
+  "Quotes": "I think we too often make choices based on the safety of cynicism, and what we're lead to is a life not fully lived. Cynicism is fear, and it's worse than fear - it's active disengagement."
+},
+{
+  "Author": "George Matthew Adams",
+  "Category": "fear",
+  "Quotes": "A cheerful frame of mind, reinforced by relaxation... is the medicine that puts all ghosts of fear on the run."
+},
+{
+  "Author": "Wayne Rooney",
+  "Category": "fear",
+  "Quotes": "When you are 16 there is no fear whatsoever. As you get older you play in more important games and that is when you start thinking about what will happen if you win or lose."
+},
+{
+  "Author": "Carter G. Woodson",
+  "Category": "fear",
+  "Quotes": "Let us banish fear."
+},
+{
+  "Author": "Publilius Syrus",
+  "Category": "fear",
+  "Quotes": "Valor grows by daring, fear by holding back."
+},
+{
+  "Author": "Aeschylus",
+  "Category": "fear",
+  "Quotes": "When a match has equal partners then I fear not."
+},
+{
+  "Author": "Aeschylus",
+  "Category": "fear",
+  "Quotes": "Excessive fear is always powerless."
+},
+{
+  "Author": "Louis D. Brandeis",
+  "Category": "fear",
+  "Quotes": "Fear of serious injury alone cannot justify oppression of free speech and assembly. Men feared witches and burnt women. It is the function of speech to free men from the bondage of irrational fears."
+},
+{
+  "Author": "Yousef Munayyer",
+  "Category": "fear",
+  "Quotes": "Humility is a great quality of leadership which derives respect and not just fear or hatred."
+},
+{
+  "Author": "Robert Burns",
+  "Category": "fear",
+  "Quotes": "Dare to be honest and fear no labor."
+},
+{
+  "Author": "Publilius Syrus",
+  "Category": "fear",
+  "Quotes": "Audacity augments courage hesitation, fear."
+},
+{
+  "Author": "Taylor Swift",
+  "Category": "fear",
+  "Quotes": "I have this fear of falling in front of large groups of people. That's why I tend not to wear heels."
+},
+{
+  "Author": "Samuel Goldwyn",
+  "Category": "fear",
+  "Quotes": "No person who is enthusiastic about his work has anything to fear from life."
+},
+{
+  "Author": "Jean de La Fontaine",
+  "Category": "fear",
+  "Quotes": "Everyone believes very easily whatever they fear or desire."
+},
+{
+  "Author": "Stanislav Grof",
+  "Category": "fear",
+  "Quotes": "An important consequence of freeing oneself from the fear of death is a radical opening to spirituality of a universal and non-denominational type."
+},
+{
+  "Author": "Tori Amos",
+  "Category": "fear",
+  "Quotes": "If you have an issue with homosexuality, then it comes to your own fear and your own darkness."
+},
+{
+  "Author": "Scott Adams",
+  "Category": "fear",
+  "Quotes": "I think 'Dilbert' will remain popular as long as employees are frustrated and they fear the consequences of complaining too loudly. 'Dilbert' is the designated voice of discontent for the workplace. I never planned it that way. It just happened."
+},
+{
+  "Author": "Eugene Ionesco",
+  "Category": "fear",
+  "Quotes": "No society has been able to abolish human sadness, no political system can deliver us from the pain of living, from our fear of death, our thirst for the absolute. It is the human condition that directs the social condition, not vice versa."
+},
+{
+  "Author": "Bryant H. McGill",
+  "Category": "fear",
+  "Quotes": "If we fear the unknown then surely we fear ourselves."
+},
+{
+  "Author": "Gerald Jampolsky",
+  "Category": "fear",
+  "Quotes": "Love is the total absence of fear. Love asks no questions. Its natural state is one of extension and expansion, not comparison and measurement."
+},
+{
+  "Author": "Thomas Hobbes",
+  "Category": "fear",
+  "Quotes": "There is no such thing as perpetual tranquillity of mind while we live here because life itself is but motion, and can never be without desire, nor without fear, no more than without sense."
+},
+{
+  "Author": "Lord Chesterfield",
+  "Category": "fear",
+  "Quotes": "If you can once engage people's pride, love, pity, ambition on your side, you need not fear what their reason can do against you."
+},
+{
+  "Author": "James Joyce",
+  "Category": "fear",
+  "Quotes": "I fear those big words which make us so unhappy."
+},
+{
+  "Author": "Jean de La Fontaine",
+  "Category": "fear",
+  "Quotes": "The strongest passion is fear."
+},
+{
+  "Author": "Jean de La Fontaine",
+  "Category": "fear",
+  "Quotes": "We must laugh before we are happy, for fear we die before we laugh at all."
+},
+{
+  "Author": "Elias Canetti",
+  "Category": "fear",
+  "Quotes": "The fear of burglars is not only the fear of being robbed, but also the fear of a sudden and unexpected clutch out of the darkness."
+},
+{
+  "Author": "Jeff Bridges",
+  "Category": "fear",
+  "Quotes": "I don't know how it is for women or for other guys, but when I was young and in my 20s, I had a fear of marriage."
+},
+{
+  "Author": "Rowan Williams",
+  "Category": "fear",
+  "Quotes": "Quite a lot of our contemporary culture is actually shot through with a resentment of limits and the passage of time, anger at what we can't do, fear or even disgust at growing old."
+},
+{
+  "Author": "Jack Nicholson",
+  "Category": "fear",
+  "Quotes": "I don't have any fear of intimacy, but rather thrive on it, which is rare in a public person."
+},
+{
+  "Author": "Henry A. Wallace",
+  "Category": "fear",
+  "Quotes": "Monopolists who fear competition and who distrust democracy because it stands for equal opportunity would like to secure their position against small and energetic enterprise."
+},
+{
+  "Author": "Anthony J. D'Angelo",
+  "Category": "fear",
+  "Quotes": "Don't fear change - embrace it."
+},
+{
+  "Author": "Umberto Eco",
+  "Category": "fear",
+  "Quotes": "Fear prophets and those prepared to die for the truth, for as a rule they make many others die with them, often before them, at times instead of them."
+},
+{
+  "Author": "Emile M. Cioran",
+  "Category": "fear",
+  "Quotes": "The fear of being deceived is the vulgar version of the quest for Truth."
+},
+{
+  "Author": "Bryant H. McGill",
+  "Category": "fear",
+  "Quotes": "In the company of the accomplished, people hope it will rub off on themselves, in the company of the misfortunate, they fear it!"
+},
+{
+  "Author": "Titus Livius",
+  "Category": "fear",
+  "Quotes": "Under the influence of fear, which always leads men to take a pessimistic view of things, they magnified their enemies' resources, and minimized their own."
+},
+{
+  "Author": "Ivo Andric",
+  "Category": "fear",
+  "Quotes": "Between the fear that something would happen and the hope that still it wouldn't, there is much more space than one thinks. On that narrow, hard, bare and dark space a lot of us spend their lives."
+},
+{
+  "Author": "Rand Paul",
+  "Category": "fear",
+  "Quotes": "Do we fear terrorism so much that we throw out our Constitution, and are we unwilling and afraid to debate our Constitution?"
+},
+{
+  "Author": "Lord Chesterfield",
+  "Category": "fear",
+  "Quotes": "Wit is so shining a quality that everybody admires it most people aim at it, all people fear it, and few love it unless in themselves. A man must have a good share of wit himself to endure a great share of it in another."
+},
+{
+  "Author": "Billy Corgan",
+  "Category": "fear",
+  "Quotes": "If I have resistance to something, it means there's something wrong. The resistance to me is a sign of fear."
+},
+{
+  "Author": "Douglas Horton",
+  "Category": "fear",
+  "Quotes": "Action cures fear, inaction creates terror."
+},
+{
+  "Author": "Steven Seagal",
+  "Category": "fear",
+  "Quotes": "I have no fear of death. More important, I don't fear life."
+},
+{
+  "Author": "John Dryden",
+  "Category": "fear",
+  "Quotes": "He has not learned the first lesson of life who does not every day surmount a fear."
+},
+{
+  "Author": "Camille Paglia",
+  "Category": "fear",
+  "Quotes": "Within the U.S., the Obama presidency will be mainly measured by the success or failure of his economic policies. And here, I fear, the monstrous stimulus package with which this administration stumbled out of the gate will prove to be Obama's Waterloo."
+},
+{
+  "Author": "Bell Hooks",
+  "Category": "fear",
+  "Quotes": "When we drop fear, we can draw nearer to people, we can draw nearer to the earth, we can draw nearer to all the heavenly creatures that surround us."
+},
+{
+  "Author": "William Tecumseh Sherman",
+  "Category": "fear",
+  "Quotes": "My aim then was to whip the rebels, to humble their pride, to follow them to their inmost recesses, and make them fear and dread us."
+},
+{
+  "Author": "Hugh Jackman",
+  "Category": "fear",
+  "Quotes": "I've always felt that if you back down from a fear, the ghost of that fear never goes away. It diminishes people."
+},
+{
+  "Author": "Hugh Jackman",
+  "Category": "fear",
+  "Quotes": "I was probably more scared of my high school exams than I was of the Oscars. At the time you think it's everything and if you don't do well, your life's over. Opportunities are gone. So the more you do it, the less the fear is present."
+},
+{
+  "Author": "Stevie Nicks",
+  "Category": "fear",
+  "Quotes": "I am pretty fearless, and you know why? Because I don't handle fear very well I'm not a good terrified person."
+},
+{
+  "Author": "Joseph Conrad",
+  "Category": "fear",
+  "Quotes": "How does one kill fear, I wonder? How do you shoot a specter through the heart, slash off its spectral head, take it by its spectral throat?"
+},
+{
+  "Author": "Madame de Stael",
+  "Category": "fear",
+  "Quotes": "Love is a symbol of eternity. It wipes out all sense of time, destroying all memory of a beginning and all fear of an end."
+},
+{
+  "Author": "Sammy Davis, Jr.",
+  "Category": "fear",
+  "Quotes": "You always have two choices: your commitment versus your fear."
+},
+{
+  "Author": "Isabel Allende",
+  "Category": "fear",
+  "Quotes": "What I fear most is power with impunity. I fear abuse of power, and the power to abuse."
+},
+{
+  "Author": "Dan Gable",
+  "Category": "fear",
+  "Quotes": "Right out of high school I never had the fear of getting beat, which is how most people lose."
+},
+{
+  "Author": "Emile M. Cioran",
+  "Category": "fear",
+  "Quotes": "Crime in full glory consolidates authority by the sacred fear it inspires."
+},
+{
+  "Author": "Emile M. Cioran",
+  "Category": "fear",
+  "Quotes": "Isn't history ultimately the result of our fear of boredom?"
+},
+{
+  "Author": "Robert Anton Wilson",
+  "Category": "fear",
+  "Quotes": "The abandoned infant's cry is rage, not fear."
+},
+{
+  "Author": "Marian Anderson",
+  "Category": "fear",
+  "Quotes": "Fear is a disease that eats away at logic and makes man inhuman."
+},
+{
+  "Author": "T. E. Lawrence",
+  "Category": "fear",
+  "Quotes": "It seemed that rebellion must have an unassailable base, something guarded not merely from attack, but from the fear of it: such a base as we had in the Red Sea Parts, the desert, or in the minds of the men we converted to our creed."
+},
+{
+  "Author": "Conan O'Brien",
+  "Category": "fear",
+  "Quotes": "There are few things more liberating in this life than having your worst fear realized."
+},
+{
+  "Author": "Tertullian",
+  "Category": "fear",
+  "Quotes": "Fear is the foundation of safety."
+},
+{
+  "Author": "Billy Corgan",
+  "Category": "fear",
+  "Quotes": "I do not trust those who make the vaccines, or the apparatus behind it all to push it on us through fear."
+},
+{
+  "Author": "Joe Biden",
+  "Category": "fear",
+  "Quotes": "I believe the American people have a genuine and justifiable fear of government intrusion in what they instinctively know is going to be an ever more intrusive world."
+},
+{
+  "Author": "King Hussein",
+  "Category": "fear",
+  "Quotes": "We should face reality and our past mistakes in an honest, adult way. Boasting of glory does not make glory, and singing in the dark does not dispel fear."
+},
+{
+  "Author": "Bell Hooks",
+  "Category": "fear",
+  "Quotes": "I have been thinking about the notion of perfect love as being without fear, and what that means for us in a world that's becoming increasingly xenophobic, tortured by fundamentalism and nationalism."
+},
+{
+  "Author": "Robert Browning",
+  "Category": "fear",
+  "Quotes": "Love, hope, fear, faith - these make humanity These are its sign and note and character."
+},
+{
+  "Author": "Black Elk",
+  "Category": "fear",
+  "Quotes": "And if the great fear had not come upon me, as it did, and forced me to do my duty, I might have been less good to the people than some man who had never dreamed at all, even with the memory of so great a vision in me."
+},
+{
+  "Author": "Jennifer Lopez",
+  "Category": "fear",
+  "Quotes": "I've always had a huge fear of dying or becoming ill. The thing I'm most afraid of, though, is being alone, which I think a lot of performers fear. It's why we seek the limelight - so we're not alone, were adored. We're loved, so people want to be around us. The fear of being alone drives my life."
+},
+{
+  "Author": "Francesca Annis",
+  "Category": "fear",
+  "Quotes": "You have to be careful not to let your fear stop you doing things. It's very exciting to test yourself."
+},
+{
+  "Author": "Jean de la Bruyere",
+  "Category": "fear",
+  "Quotes": "We must laugh before we are happy, for fear of dying without having laughed at all."
+},
+{
+  "Author": "Jean de la Bruyere",
+  "Category": "fear",
+  "Quotes": "We should laugh before being happy, for fear of dying without having laughed."
+},
+{
+  "Author": "David Livingstone",
+  "Category": "fear",
+  "Quotes": "Fear God and work hard."
+},
+{
+  "Author": "Shirley MacLaine",
+  "Category": "fear",
+  "Quotes": "The more I traveled the more I realized that fear makes strangers of people who should be friends."
+},
+{
+  "Author": "Fulton Oursler",
+  "Category": "fear",
+  "Quotes": "Many of us crucify ourselves between two thieves - regret for the past and fear of the future."
+},
+{
+  "Author": "Herb Kelleher",
+  "Category": "fear",
+  "Quotes": "A company is stronger if it is bound by love rather than by fear."
+},
+{
+  "Author": "Emma Watson",
+  "Category": "fear",
+  "Quotes": "I don't want the fear of failure to stop me from doing what I really care about."
+},
+{
+  "Author": "John Dryden",
+  "Category": "fear",
+  "Quotes": "Death in itself is nothing but we fear to be we know not what, we know not where."
+},
+{
+  "Author": "Saint Francis de Sales",
+  "Category": "fear",
+  "Quotes": "Those who love to be feared fear to be loved."
+},
+{
+  "Author": "Vannevar Bush",
+  "Category": "fear",
+  "Quotes": "Fear cannot be banished, but it can be calm and without panic it can be mitigated by reason and evaluation."
+},
+{
+  "Author": "David Byrne",
+  "Category": "fear",
+  "Quotes": "I've noticed a lot of younger artists have less fear of doing different sorts of things, whether it's various types of music, or gallery artists moving between video and sculpture and drawing."
+},
+{
+  "Author": "William Lyon Phelps",
+  "Category": "fear",
+  "Quotes": "The fear of life is the favorite disease of the 20th century."
+},
+{
+  "Author": "Huey Newton",
+  "Category": "fear",
+  "Quotes": "There's no reason for the establishment to fear me. But it has every right to fear the people collectively - I am one with the people."
+},
+{
+  "Author": "Sandra Day O'Connor",
+  "Category": "fear",
+  "Quotes": "It is a measure of the framers' fear that a passing majority might find it expedient to compromise 4th Amendment values that these values were embodied in the Constitution itself."
+},
+{
+  "Author": "King Abdullah II",
+  "Category": "fear",
+  "Quotes": "Jerusalem is a time bomb that I fear is just waiting to go off."
+},
+{
+  "Author": "T. D. Jakes",
+  "Category": "fear",
+  "Quotes": "Resist your fear fear will never lead to you a positive end. Go for your faith and what you believe."
+},
+{
+  "Author": "Margaret J. Wheatley",
+  "Category": "fear",
+  "Quotes": "When we can lay down our fear and anger and choose responses other than aggression, we create the conditions for bringing out the best in us humans."
+},
+{
+  "Author": "Christopher Meloni",
+  "Category": "fear",
+  "Quotes": "People don't know where to place me. Terry Gilliam used me as a quirky cop in 'Twelve Monkeys', and then he hired me again to be an effeminate hotel clerk in 'Fear and Loathing in Las Vegas'. Another time, I was shooting this indie film 'The Souler Opposite' and six days a week, I'm playing this big puppy dog, then I come to the 'NYPD Blue' set and become this scumbag."
+},
+{
+  "Author": "King Hussein I",
+  "Category": "fear",
+  "Quotes": "In this life struggle, here I am among you fully cognizant that a true believer has no fear of what God has ordained for him. Those who are visited by fear live only for their present, under the illusion that the world began with them and will end with their departure."
+},
+{
+  "Author": "Luis Gutierrez",
+  "Category": "fear",
+  "Quotes": "Uncertainty and fear and ignorance about immigrants, about people who are different, has a history as old as our Nation."
+},
+{
+  "Author": "Ginnifer Goodwin",
+  "Category": "fear",
+  "Quotes": "But I love being scared. I think you're brave only when you do things that scare you. I've always used fear as a motivator. I'm not sure why."
+},
+{
+  "Author": "Ivo Andric",
+  "Category": "fear",
+  "Quotes": "If people would know how little brain is ruling the world, they would die of fear."
+},
+{
+  "Author": "Noam Chomsky",
+  "Category": "fear",
+  "Quotes": "Resistance is feasible even for those who are not heroes by nature, and it is an obligation, I believe, for those who fear the consequences and detest the reality of the attempt to impose American hegemony."
+},
+{
+  "Author": "Jacqueline Bisset",
+  "Category": "fear",
+  "Quotes": "At the time, 1980, people regarded actresses involved with production with a certain amount of fear, resentment and anger."
+},
+{
+  "Author": "Rashida Jones",
+  "Category": "fear",
+  "Quotes": "My dad always tell me to make decisions from love and not from fear."
+},
+{
+  "Author": "Rashida Jones",
+  "Category": "fear",
+  "Quotes": "Men do weird things when they experience fear. It's like a fight-or-flight thing."
+},
+{
+  "Author": "Otto von Bismarck",
+  "Category": "fear",
+  "Quotes": "An appeal to fear never finds an echo in German hearts."
+},
+{
+  "Author": "Peter McWilliams",
+  "Category": "fear",
+  "Quotes": "Fear is something to be moved through, not something to be turned from."
+},
+{
+  "Author": "Joan Didion",
+  "Category": "fear",
+  "Quotes": "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear."
+},
+{
+  "Author": "Cornel West",
+  "Category": "fear",
+  "Quotes": "My dear brother Barack Obama has a certain fear of free black men. As a young brother who grows up in a white context, brilliant African father, he's always had to fear being a white man with black skin. All he has known culturally is white. He has a certain rootlessness, a deracination."
+},
+{
+  "Author": "Ben Stein",
+  "Category": "fear",
+  "Quotes": "Americans are terrified because so many of them have been laid off in recent years and months and they fear that they may be next. Even if they have not been laid off or have not known anyone laid off, they definitely know someone who has lost his home."
+},
+{
+  "Author": "Johnny Vegas",
+  "Category": "fear",
+  "Quotes": "You can't be a proper comic unless you've been out on stage and felt the fear."
+},
+{
+  "Author": "Dan Savage",
+  "Category": "fear",
+  "Quotes": "A huge part of what animates homophobia among young people is paranoia and fear of their own capacity to be gay themselves."
+},
+{
+  "Author": "Lewis Mumford",
+  "Category": "fear",
+  "Quotes": "Without fullness of experience, length of days is nothing. When fullness of life has been achieved, shortness of days is nothing. That is perhaps why the young have usually so little fear of death they live by intensities that the elderly have forgotten."
+},
+{
+  "Author": "Rocky Marciano",
+  "Category": "fear",
+  "Quotes": "In the ring, I never really knew fear."
+},
+{
+  "Author": "Natan Sharansky",
+  "Category": "fear",
+  "Quotes": "Can someone within that society walk into the town square and say what they want without fear of being punished for his or her views? If so, then that society is a free society. If not, it is a fear society."
+},
+{
+  "Author": "Don DeLillo",
+  "Category": "fear",
+  "Quotes": "There's always a period of curious fear between the first sweet-smelling breeze and the time when the rain comes cracking down."
+},
+{
+  "Author": "Lauryn Hill",
+  "Category": "fear",
+  "Quotes": "I do support artists standing by their beliefs and walking with integrity. We have to find a better way to commercially exploit music while giving artists their proper respect. This cannot be done while taking their contributions for granted or trying to control the scope of their growth and power through threats and fear tactics."
+},
+{
+  "Author": "Jean Baudrillard",
+  "Category": "fear",
+  "Quotes": "Television knows no night. It is perpetual day. TV embodies our fear of the dark, of night, of the other side of things."
+},
+{
+  "Author": "Jonathan Sacks",
+  "Category": "fear",
+  "Quotes": "We are biological creatures. We are born, we live, we die. There is no transcendent purpose to existence. At best we are creatures of reason, and by using reason we can cure ourselves of emotional excess. Purged of both hope and fear, we find courage in the face of helplessness, insignificance and uncertainty."
+},
+{
+  "Author": "Jonathan Safran Foer",
+  "Category": "fear",
+  "Quotes": "My greatest fear is feeling like a professional novelist. Somebody who creates characters, who sits down and has pieces of paper taped to the wall - what's going to happen in this scene, or this act. What I like is for it to be a much more scary, sloppy reflection of who I am."
+},
+{
+  "Author": "Martha Beck",
+  "Category": "fear",
+  "Quotes": "Anger elicits anger, fear elicits fear, no matter how well meaning we may be."
+},
+{
+  "Author": "Mary Baker Eddy",
+  "Category": "fear",
+  "Quotes": "Disease is an experience of a so-called mortal mind. It is fear made manifest on the body."
+},
+{
+  "Author": "Marilyn French",
+  "Category": "fear",
+  "Quotes": "Fear is a question. What are you afraid of and why? Our fears are a treasure house of self-knowledge if we explore them."
+},
+{
+  "Author": "Maggie Kuhn",
+  "Category": "fear",
+  "Quotes": "Stand before the people you fear and speak your mind - even if your voice shakes."
+},
+{
+  "Author": "Julien Green",
+  "Category": "fear",
+  "Quotes": "A child's fear is a world whose dark corners are quite unknown to grownup people it has its sky and its abysses, a sky without stars, abysses into which no light can ever penetrate."
+},
+{
+  "Author": "Dan Rather",
+  "Category": "fear",
+  "Quotes": "Fear rules almost every newsroom in the country."
+},
+{
+  "Author": "Lars von Trier",
+  "Category": "fear",
+  "Quotes": "Only a fool does not fear actors, but you can't beat them, and if you can't beat them, join them, as they say. As I've got older I've become very interested in that part of the work."
+},
+{
+  "Author": "Jack Lemmon",
+  "Category": "fear",
+  "Quotes": "Failure seldom stops you. What stops you is the fear of failure."
+},
+{
+  "Author": "David Mamet",
+  "Category": "fear",
+  "Quotes": "My greatest fear is that the audience will beat me to the punch line."
+},
+{
+  "Author": "Russell Baker",
+  "Category": "fear",
+  "Quotes": "Roosevelt's declaration that Americans had 'nothing to fear but fear itself' was a glorious piece of inspirational rhetoric and just as gloriously wrong."
+},
+{
+  "Author": "Diane Abbott",
+  "Category": "fear",
+  "Quotes": "Gun crime is a major cause of fear and distress throughout the UK. The problem is deeply entrenched in a wide range of social and cultural factors and therefore not an isolated issue."
+},
+{
+  "Author": "Diane Abbott",
+  "Category": "fear",
+  "Quotes": "I was a postman one Christmas and I developed a morbid fear of dogs."
+},
+{
+  "Author": "Dean Koontz",
+  "Category": "fear",
+  "Quotes": "I never discuss a novel while I'm writing it, for fear that talking about it will diminish my desire to write it."
+},
+{
+  "Author": "Susan Sontag",
+  "Category": "fear",
+  "Quotes": "Authoritarian political ideologies have a vested interest in promoting fear, a sense of the imminence of takeover by aliens and real diseases are useful material."
+},
+{
+  "Author": "Twyla Tharp",
+  "Category": "fear",
+  "Quotes": "The only thing I fear more than change is no change. The business of being static makes me nuts."
+},
+{
+  "Author": "Anthony Kiedis",
+  "Category": "fear",
+  "Quotes": "I think people that have fear that, 'Oh if I have a kid I won't be able to do this and I won't be able to do that.' It's kind of the opposite. It really gives you energy. It makes people better."
+},
+{
+  "Author": "Kevin Mitnick",
+  "Category": "fear",
+  "Quotes": "Should we fear hackers? Intention is at the heart of this discussion."
+},
+{
+  "Author": "Salman Rushdie",
+  "Category": "fear",
+  "Quotes": "Vertigo is the conflict between the fear of falling and the desire to fall."
+},
+{
+  "Author": "Steven Brust",
+  "Category": "fear",
+  "Quotes": "To seek understanding before taking action, yet to trust my instincts when action is called for. Never to avoid danger from fear, never to seek out danger for its own sake. Never to conform to fashion from fear of eccentricity, never to be eccentric from fear of conformity."
+},
+{
+  "Author": "Sean Connery",
+  "Category": "fear",
+  "Quotes": "Laughter kills fear, and without fear there can be no faith. For without fear of the devil there is no need for God."
+},
+{
+  "Author": "Eliot Spitzer",
+  "Category": "fear",
+  "Quotes": "President Obama is doing the right thing by offering young immigrants, most often in this country through no action of their own, a chance to live and work openly, free from the fear of deportation."
+},
+{
+  "Author": "Gabrielle Union",
+  "Category": "fear",
+  "Quotes": "You get so afraid of failure and so afraid of losing and so afraid of not being the best that it's not a natural drive - it's born out of fear of failure. Which helps in Hollywood."
+},
+{
+  "Author": "Tony Snow",
+  "Category": "fear",
+  "Quotes": "Yet, it ought to be obvious that good music generally occupies a higher plane that mere politics. Great writers can express moods through melody and capture experiences we share most powerfully - love, lust, longing joy, rage, fear triumph, yearning and confusion."
+},
+{
+  "Author": "Ashley Tisdale",
+  "Category": "fear",
+  "Quotes": "I definitely think cheerleaders have no fear."
+},
+{
+  "Author": "Theodore Bikel",
+  "Category": "fear",
+  "Quotes": "Although I am deeply grateful to a great many people, I forgo the temptation of naming them for fear that I might slight any by omission."
+},
+{
+  "Author": "Puff Daddy",
+  "Category": "fear",
+  "Quotes": "I don't believe in fear - I live my life without regrets."
+},
+{
+  "Author": "Isabelle Adjani",
+  "Category": "fear",
+  "Quotes": "I have no fear of being less beautiful, I've always been afraid of not being beautiful."
+},
+{
+  "Author": "Camille Pissarro",
+  "Category": "fear",
+  "Quotes": "I sometimes have a horrible fear of turning up a canvas of mine. I'm always afraid of finding a monster in place of the precious jewels I thought I had put there!"
+},
+{
+  "Author": "Laura Linney",
+  "Category": "fear",
+  "Quotes": "Fear, anxiety and neurosis: that's just in the suitcase when you're an actor."
+},
+{
+  "Author": "Vita Sackville-West",
+  "Category": "fear",
+  "Quotes": "Authority has every reason to fear the skeptic, for authority can rarely survive in the face of doubt."
+},
+{
+  "Author": "Nicolaus Copernicus",
+  "Category": "fear",
+  "Quotes": "Not a few other very eminent and scholarly men made the same request, urging that I should no longer through fear refuse to give out my work for the common benefit of students of Mathematics."
+},
+{
+  "Author": "Jesse Jackson",
+  "Category": "fear",
+  "Quotes": "So here we are today with a new conversation. When University of Georgia plays Georgia Tech, it's uniform color versus skin color. We have - we've overcome that level of racial fear."
+},
+{
+  "Author": "Sara Blakely",
+  "Category": "fear",
+  "Quotes": "I took a Fear of Flying class, and I always missed the class, because I was always flying."
+},
+{
+  "Author": "Zbigniew Brzezinski",
+  "Category": "fear",
+  "Quotes": "I think it is important to ask ourselves as citizens, not as Democrats attacking the administration, but as citizens, whether a world power can really provide global leadership on the basis of fear and anxiety?"
+},
+{
+  "Author": "Patrick Swayze",
+  "Category": "fear",
+  "Quotes": "Together we can make a world where cancer no longer means living with fear, without hope, or worse."
+},
+{
+  "Author": "Anna Jameson",
+  "Category": "fear",
+  "Quotes": "In morals what begins in fear usually ends in wickedness in religion what begins in fear usually ends in fanaticism. Fear, either as a principle or a motive, is the beginning of all evil."
+},
+{
+  "Author": "Steve Irwin",
+  "Category": "fear",
+  "Quotes": "So fear helps me from making mistakes, but I make lot of mistakes."
+},
+{
+  "Author": "Douglas Wood",
+  "Category": "fear",
+  "Quotes": "Fear of failure has always been my best motivator."
+},
+{
+  "Author": "John Hawkes",
+  "Category": "fear",
+  "Quotes": "My fear now is of cliche, of complacency, of not being able to feel authenticity in myself and those around me."
+},
+{
+  "Author": "Shawn Johnson",
+  "Category": "fear",
+  "Quotes": "I had a constant fear, a constant little doubt in my mind: 'OK, I'm getting ready to do my standing back full on beam and I might re-tear my ACL.'"
+},
+{
+  "Author": "Virginia C. Andrews",
+  "Category": "fear",
+  "Quotes": "Mine are the deep-seated fears established when we are children, and they never quite go away: the fear of being helpless, the fear of being trapped, the fear of being out of control."
+},
+{
+  "Author": "Harlan Coben",
+  "Category": "fear",
+  "Quotes": "Being a parent is not for the faint of heart. I may joke about knowing fear, but the fact is, the first time I ever knew real fear was the day Charlotte, my first child, was born. Suddenly there is someone in the world you care about more than anything."
+},
+{
+  "Author": "Harlan Coben",
+  "Category": "fear",
+  "Quotes": "I always say three things make a writer: inspiration, obviously perspiration, doing the work. But the third is desperation. I'm not really fit for anything else, or to have a real job. That fear drives me. The pressure has always been self inflicted."
+},
+{
+  "Author": "Heath Ledger",
+  "Category": "fear",
+  "Quotes": "I like to do something I fear."
+},
+{
+  "Author": "Gordon Parks",
+  "Category": "fear",
+  "Quotes": "At first I wasn't sure that I had the talent, but I did know I had a fear of failure, and that fear compelled me to fight off anything that might abet it."
+},
+{
+  "Author": "Jonathan Sacks",
+  "Category": "fear",
+  "Quotes": "Jews survived all the defeats, expulsions, persecutions and pogroms, the centuries in which they were regarded as a pariah people, even the Holocaust itself, because they never gave up the faith that one day they would be free to live as Jews without fear."
+},
+{
+  "Author": "Jonathan Sacks",
+  "Category": "fear",
+  "Quotes": "In an ecology of love, people can relate in trust and face the future without fear. They do not need to play it safe. They can take uncertainty in their stride."
+},
+{
+  "Author": "Giordano Bruno",
+  "Category": "fear",
+  "Quotes": "It may be you fear more to deliver judgment upon me than I fear judgment."
+},
+{
+  "Author": "Ruby Dee",
+  "Category": "fear",
+  "Quotes": "God, make me so uncomfortable that I will do the very thing I fear."
+},
+{
+  "Author": "Floyd Patterson",
+  "Category": "fear",
+  "Quotes": "Fear was absolutely necessary. Without it, I would have been scared to death."
+},
+{
+  "Author": "Lewis Thomas",
+  "Category": "fear",
+  "Quotes": "A lot of people fear death because they think that so overwhelming an experience has to be painful, but I've seen quite a few deaths, and, with one exception, I've never known anyone to undergo anything like agony. That's amazing when you think about it. I mean, how complicated the mechanism is that's being taken apart."
+},
+{
+  "Author": "Warren Farrell",
+  "Category": "fear",
+  "Quotes": "A man's primary fantasy is access to a variety of attractive women without the fear of rejection."
+},
+{
+  "Author": "Arsenio Hall",
+  "Category": "fear",
+  "Quotes": "I am consumed with the fear of failing. Reaching deep down and finding confidence has made all my dreams come true."
+},
+{
+  "Author": "David Wilkerson",
+  "Category": "fear",
+  "Quotes": "The greatest fear that haunts this city is a suitcase bomb, nuclear or germ. Many people carry small gas masks. The masses here seem to be resigned to the inevitable, believing an attack of major proportions will happen."
+},
+{
+  "Author": "Julie Burchill",
+  "Category": "fear",
+  "Quotes": "The Feminist Me says that a woman's right to her own body should be inviolate at all times, free from fear of peeping paps."
+},
+{
+  "Author": "Ricky Williams",
+  "Category": "fear",
+  "Quotes": "Well, I am now convinced there is no kind of fear or anxiety anyone has to live with."
+},
+{
+  "Author": "Jeffrey Sachs",
+  "Category": "fear",
+  "Quotes": "Roosevelt talked not only about Freedom from Fear, but also Freedom from Want."
+},
+{
+  "Author": "David Brainerd",
+  "Category": "fear",
+  "Quotes": "I fear God never showed mercy to one so vile as I."
+},
+{
+  "Author": "Christy Turlington",
+  "Category": "fear",
+  "Quotes": "Most of us harbour a significant amount of subconscious fear about death, and act out of this fear in our daily lives."
+},
+{
+  "Author": "Jeremy Renner",
+  "Category": "fear",
+  "Quotes": "Fear is just not a part of my life - so much so that if it's involved in somebody else's life and they're close to me, I won't be around them."
+},
+{
+  "Author": "Cyril Connolly",
+  "Category": "fear",
+  "Quotes": "The dread of lonliness is greater than the fear of bondage, so we get married."
+},
+{
+  "Author": "Cyril Connolly",
+  "Category": "fear",
+  "Quotes": "There are many who dare not kill themselves for fear of what the neighbours will say."
+},
+{
+  "Author": "Cyril Connolly",
+  "Category": "fear",
+  "Quotes": "As repressed sadists are supposed to become policemen or butchers so those with an irrational fear of life become publishers."
+},
+{
+  "Author": "Kiefer Sutherland",
+  "Category": "fear",
+  "Quotes": "There's a confidence that comes from youth and not knowing better. But there comes a point, as an actor, when you do know better, and that is when the fear starts."
+},
+{
+  "Author": "Andrew Cuomo",
+  "Category": "fear",
+  "Quotes": "My father was against the death penalty, and that was hard in the Son of Sam summer when fear was driving the desire for the death penalty."
+},
+{
+  "Author": "Ryan White",
+  "Category": "fear",
+  "Quotes": "Because of the lack of education on AIDS, discrimination, fear, panic, and lies surrounded me."
+},
+{
+  "Author": "George Saunders",
+  "Category": "fear",
+  "Quotes": "The universal human laws - need, love for the beloved, fear, hunger, periodic exaltation, the kindness that rises up naturally in the absence of hunger/fear/pain - are constant, predictable, reliable, universal, and are merely ornamented with the details of local culture."
+},
+{
+  "Author": "Lucius Accius",
+  "Category": "fear",
+  "Quotes": "Let them hate so long as they fear."
+},
+{
+  "Author": "Liza Minnelli",
+  "Category": "fear",
+  "Quotes": "The regrets of yesterday and the fear of tomorrow can kill you."
+},
+{
+  "Author": "Quintilian",
+  "Category": "fear",
+  "Quotes": "Fear of the future is worse than one's present fortune."
+},
+{
+  "Author": "Marvin Gaye",
+  "Category": "fear",
+  "Quotes": "Most fear stems from sin to limit one's sins, one must assuredly limit one's fear, thereby bringing more peace to one's spirit."
+},
+{
+  "Author": "King Abdullah II",
+  "Category": "fear",
+  "Quotes": "Over the past few years, the road to confrontation has shown its consequences: loss of innocent lives, destruction and fear. Most costly, however, was the loss of hope. The most precious gift that you can present to your peoples over the coming weeks is renewed hope born out of tangible progress on the ground."
+},
+{
+  "Author": "Jack Nicklaus",
+  "Category": "fear",
+  "Quotes": "I'd rather be two strokes ahead going into the last day than two strokes behind. Having said that, it's probably easier to win coming from behind. There is no fear in chasing. There is fear in being chased."
+},
+{
+  "Author": "Virgil Thomson",
+  "Category": "fear",
+  "Quotes": "Try a thing you haven't done three times. Once, to get over the fear of doing it. Twice, to learn how to do it. And a third time to figure out whether you like it or not."
+},
+{
+  "Author": "Stanislav Grof",
+  "Category": "fear",
+  "Quotes": "Coming to terms with the fear of death is conducive to healing, positive personality transformation, and consciousness evolution."
+},
+{
+  "Author": "Rachel McAdams",
+  "Category": "fear",
+  "Quotes": "I think one thing that kids who grow up on farms really have going for them is they have exposure to death and birth in a totally different way. I think it takes away a little bit of the mystery and a little bit of the fear, and I do wish I had that. And I wish I was able to grow my own food."
+},
+{
+  "Author": "Rachel McAdams",
+  "Category": "fear",
+  "Quotes": "You know I never used to be a bad flyer, but I did start to have a fear of flying after I shot a movie where I was terrorized on a plane. I made Wes Craven's 'Red Eye'. I don't think they're linked but it does make me pause and wonder if they are, so perhaps I will explore that in therapy some day."
+},
+{
+  "Author": "Jeffrey Kluger",
+  "Category": "fear",
+  "Quotes": "Vaccines save lives fear endangers them. It's a simple message parents need to keep hearing."
+},
+{
+  "Author": "Jeffrey Kluger",
+  "Category": "fear",
+  "Quotes": "At the root of the shy temperament is a deep fear of social judgment, one so severe it can sometimes be crippling. Introverted people don't worry unduly about whether they'll be found wanting, they just find too much socializing exhausting and would prefer either to be alone or in the company of a select few people."
+},
+{
+  "Author": "Jeffrey Kluger",
+  "Category": "fear",
+  "Quotes": "What people fear most about tragedy is its randomness - a taxi cab jumps the curb and hits a pedestrian, a gun misfires and kills a bystander. Better to have some rational cause and effect between incident and injury. And if cause and effect aren't possible, better that there at least be some reward for all the suffering."
+},
+{
+  "Author": "Edward Young",
+  "Category": "fear",
+  "Quotes": "Less base the fear of death than fear of life."
+},
+{
+  "Author": "Shimon Peres",
+  "Category": "fear",
+  "Quotes": "I call on the Iranian people: it is not too late to replace the corrupt regime and return to your glorious Persian heritage, a heritage of culture and values and not of bombs and missiles... How can a nation allow a regime to instill fear, take away the people's freedom and shock the young generation that seeks its way out of the dictatorial Iran."
+},
+{
+  "Author": "Donald Cargill",
+  "Category": "fear",
+  "Quotes": "I wish there were more true conversion, and then there would not be so much backsliding, and, for fear of suffering, living at ease, when there are so few to contend for Christ and His cause."
+},
+{
+  "Author": "Donald Cargill",
+  "Category": "fear",
+  "Quotes": "Fear not and the God of mercies grant a full gale and a fair entry into His kingdom, which may carry sweetly and swiftly over the bar, that you find not the rub of death."
+},
+{
+  "Author": "Muqtada al Sadr",
+  "Category": "fear",
+  "Quotes": "I wish to be a martyr, and I don't fear death."
+},
+{
+  "Author": "Billy Bob Thornton",
+  "Category": "fear",
+  "Quotes": "I don't have a fear of flying I have a fear of crashing."
+},
+{
+  "Author": "A. N. Wilson",
+  "Category": "fear",
+  "Quotes": "Fear of death has never played a large part in my consciousness - perhaps unimaginative of me."
+},
+{
+  "Author": "A. N. Wilson",
+  "Category": "fear",
+  "Quotes": "I might be deceiving myself but I do not think that I do have an inordinate fear of death."
+},
+{
+  "Author": "Michael Sheen",
+  "Category": "fear",
+  "Quotes": "On the one hand Twitter gives you the opportunity to engage with people, which is great, but on the other there are people who feel they can say whatever they want, put poison out there, really, without fear of any repercussions."
+},
+{
+  "Author": "Gouverneur Morris",
+  "Category": "fear",
+  "Quotes": "Americans need never fear their government because of the advantage of being armed, which the Americans possess over the people of almost every other nation."
+},
+{
+  "Author": "Wendell Phillips",
+  "Category": "fear",
+  "Quotes": "Today it is not big business that we have to fear. It is big government."
+},
+{
+  "Author": "Jack Kevorkian",
+  "Category": "fear",
+  "Quotes": "Fear controls you."
+},
+{
+  "Author": "Stevie Nicks",
+  "Category": "fear",
+  "Quotes": "If you have stage fright, it never goes away. But then I wonder: is the key to that magical performance because of the fear?"
+},
+{
+  "Author": "John Frusciante",
+  "Category": "fear",
+  "Quotes": "For me it's important to be in balance. To not let fear get in the way of things, to not worry so much about protecting yourself all the time."
+},
+{
+  "Author": "James Dyson",
+  "Category": "fear",
+  "Quotes": "Fear is always a good motivator."
+},
+{
+  "Author": "J. G. Ballard",
+  "Category": "fear",
+  "Quotes": "What our children have to fear is not the cars on the highways of tomorrow but our own pleasure in calculating the most elegant parameters of their deaths."
+},
+{
+  "Author": "Francois Hollande",
+  "Category": "fear",
+  "Quotes": "We are near, very near, to an end to the eurozone crisis... The worst - in the sense of the fear of the eurozone breaking up - is over. But the best isn't there yet."
+},
+{
+  "Author": "Charlize Theron",
+  "Category": "fear",
+  "Quotes": "You always have this fear in a movie of just being somebody's woman."
+},
+{
+  "Author": "Brad Pitt",
+  "Category": "fear",
+  "Quotes": "Perhaps we don't need these religious concoctions to pillow the fear of death. Just the fact that there is an unknown, and something greater, can bring a feeling of peace. That's enough for me."
+},
+{
+  "Author": "Steve Irwin",
+  "Category": "fear",
+  "Quotes": "That might have a lot to do with it, but you know, I probably don't show fear, but I suffer from fear like everyone else."
+},
+{
+  "Author": "Tippi Hedren",
+  "Category": "fear",
+  "Quotes": "Honest to God, all my life I have had such a fear of spiders. In fact, I use to have a reoccurring dream about one. Very clearly, it was black with a red head. It would sit up in the corner of the bedroom and when it started getting closer, I would wake up in a panic."
+},
+{
+  "Author": "Seann William Scott",
+  "Category": "fear",
+  "Quotes": "You have to have fear to take risks - and I want to at least try."
+},
+{
+  "Author": "Beth Ditto",
+  "Category": "fear",
+  "Quotes": "You live in this shadow that you're going to burn in Hell until you're saved. And I still worry about it a little. I don't believe in Heaven, but I do still fear Hell."
+},
+{
+  "Author": "Beth Ditto",
+  "Category": "fear",
+  "Quotes": "As with most phobias, the fear of flying does make some sense, but if ever there was a fear worth quashing then this is it. After all, life is short, and there's a great big world to explore out there."
+},
+{
+  "Author": "Steve Ross",
+  "Category": "fear",
+  "Quotes": "You can't operate a company by fear, because the way to eliminate fear is to avoid criticism. And the way to avoid criticism is to do nothing."
+},
+{
+  "Author": "Joaquin Phoenix",
+  "Category": "fear",
+  "Quotes": "I always have the fear that, if I don't commit 100 percent to my work, then it's gonna suffer."
+},
+{
+  "Author": "Florence Welch",
+  "Category": "fear",
+  "Quotes": "Going to parties usually makes me feel depressed, just because I have such social fear after meeting people."
+},
+{
+  "Author": "Florence Welch",
+  "Category": "fear",
+  "Quotes": "I'm completely in love with the world but also terrified of it. It creates some overwhelming feelings. Wanting to battle out that joy and fear is part of my music."
+},
+{
+  "Author": "Florence Welch",
+  "Category": "fear",
+  "Quotes": "I'd gone from being this art student messing about with music to this girl with a record deal, magazine front covers and all this hype. In many ways, it was everything I ever wanted, but when it happened all I felt was total, paralysing fear."
+},
+{
+  "Author": "Craig Ferguson",
+  "Category": "fear",
+  "Quotes": "Why do people do things that they fear? It may be that the fear contains information. Something can be interesting if you get to the other side of that fear."
+},
+{
+  "Author": "Leona Lewis",
+  "Category": "fear",
+  "Quotes": "Fear and pain and suffering is not OK for any being to feel intentionally at the hands of us."
+},
+{
+  "Author": "Trey Parker",
+  "Category": "fear",
+  "Quotes": "My fear is that, as soon as I get married and have kids that I'll kind of do what a lot of people do and suddenly start making, 'Now I'm gonna make films for kids.' I really hope I don't do that."
+},
+{
+  "Author": "Bill Owens",
+  "Category": "fear",
+  "Quotes": "Freedom is contagious. That's why despots fear it so much."
+},
+{
+  "Author": "Mos Def",
+  "Category": "fear",
+  "Quotes": "I began to fear that Mos Def was being treated as a product, not a person, so I've been going by Yasiin since '99. At first it was just for friends and family, but now I'm declaring it openly."
+},
+{
+  "Author": "Tony Kushner",
+  "Category": "fear",
+  "Quotes": "I find writing very difficult. It's hard and it hurts sometimes, and it's scary because of the fear of failure and the very unpleasant feeling that you may have reached the limit of your abilities."
+},
+{
+  "Author": "Jane Smiley",
+  "Category": "fear",
+  "Quotes": "Respect and fear are two different things."
+},
+{
+  "Author": "Jane Smiley",
+  "Category": "fear",
+  "Quotes": "The thing about Republicans is that they don't care so much about respect, but they love fear, at least in others."
+},
+{
+  "Author": "Roald Dahl",
+  "Category": "fear",
+  "Quotes": "A writer of fiction lives in fear. Each new day demands new ideas and he can never be sure whether he is going to come up with them or not."
+},
+{
+  "Author": "Thomas Friedman",
+  "Category": "fear",
+  "Quotes": "I think we have lost our groove as a country. One of the reasons was the attack on 9/11. We got knocked off our game. From a country that always exported hope we went into the business of exporting fear."
+},
+{
+  "Author": "Steve Perry",
+  "Category": "fear",
+  "Quotes": "The injury that we do to a man must be such that we need not fear his vengeance."
+},
+{
+  "Author": "Charles de Montesquieu",
+  "Category": "fear",
+  "Quotes": "There is no nation so powerful, as the one that obeys its laws not from principals of fear or reason, but from passion."
+},
+{
+  "Author": "Eli Whitney",
+  "Category": "fear",
+  "Quotes": "I have now taken a serious task upon myself and I fear a greater one that is in the power of any man to perform in the given time-but it is too late to go back."
+},
+{
+  "Author": "W. Edwards Deming",
+  "Category": "fear",
+  "Quotes": "Whenever there is fear, you will get wrong figures."
+},
+{
+  "Author": "J. J. Abrams",
+  "Category": "fear",
+  "Quotes": "All the times I've been lucky enough to be a part of a show that's actually gotten on the air, it's always that same mixture of excitement and utter fear."
+},
+{
+  "Author": "Robert Toombs",
+  "Category": "fear",
+  "Quotes": "We have not sought this conflict we have sought too long to avoid it our forbearance has been construed into weakness, our magnanimity into fear, until the vindication of our manhood, as well as the defence of our rights, is required at our hands."
+},
+{
+  "Author": "Emmanuel Teney",
+  "Category": "fear",
+  "Quotes": "There are no guarantees. From the viewpoint of fear, none are strong enough. From the viewpoint of love, none are necessary."
+},
+{
+  "Author": "John Henry Newman",
+  "Category": "fear",
+  "Quotes": "Fear not that thy life shall come to an end, but rather that it shall never have a beginning."
+},
+{
+  "Author": "Bobby Bowden",
+  "Category": "fear",
+  "Quotes": "He doesn't know the meaning of the word fear, but then again he doesn't know the meaning of most words."
+},
+{
+  "Author": "Dominic Monaghan",
+  "Category": "fear",
+  "Quotes": "People have a fear of the unknown. Insects have different senses than us, different amount of limbs and their body structure is very different. It's hard for us to really relate to them and understand them."
+},
+{
+  "Author": "Dave Matthews",
+  "Category": "fear",
+  "Quotes": "I fear that our true motivation is about oil and our own flailing economy about the failure to destroy Al Qaeda and about revenge."
+},
+{
+  "Author": "G. Gordon Liddy",
+  "Category": "fear",
+  "Quotes": "Defeat the fear of death and welcome the death of fear."
+},
+{
+  "Author": "Federico Garcia Lorca",
+  "Category": "fear",
+  "Quotes": "With their souls of patent leather, they come down the road. Hunched and nocturnal, where they breathe they impose, silence of dark rubber, and fear of fine sand."
+},
+{
+  "Author": "Roger Caras",
+  "Category": "fear",
+  "Quotes": "There are only three sins - causing pain, causing fear, and causing anguish. The rest is window dressing."
+},
+{
+  "Author": "Jose Saramago",
+  "Category": "fear",
+  "Quotes": "Americans have discovered fear."
+},
+{
+  "Author": "Helen Reddy",
+  "Category": "fear",
+  "Quotes": "I thought Erica Jong's Fear of Flying was one of the biggest pieces of crap that I've ever read in my life."
+},
+{
+  "Author": "Al Yankovic",
+  "Category": "fear",
+  "Quotes": "In the '80s, I was putting out an album virtually every year, I think mostly based on fear - that if I didn't, people would soon forget about me."
+},
+{
+  "Author": "Anna Deavere Smith",
+  "Category": "fear",
+  "Quotes": "Somehow we can't live outside the politics of race. There's something very deep in all of us, that is taught to us when we are very, very little. Which is the disrespect and fear of the other."
+},
+{
+  "Author": "Bear Grylls",
+  "Category": "fear",
+  "Quotes": "Being brave isn't the absence of fear. Being brave is having that fear but finding a way through it."
+},
+{
+  "Author": "Bear Grylls",
+  "Category": "fear",
+  "Quotes": "You're not human if you don't feel fear. But I've learnt to treat fear as an emotion that sharpens me. It's there to give me that edge for what I have to do."
+},
+{
+  "Author": "Jeremy Renner",
+  "Category": "fear",
+  "Quotes": "I live my life through fear. If I'm afraid of it I'll do it just so I'm not afraid of it anymore."
+},
+{
+  "Author": "Olympia Dukakis",
+  "Category": "fear",
+  "Quotes": "I talk to women's groups all over the country and see women struggling with this. The fear of not being accepted, of being different, of not having a man, all make it hard for a woman to do what she really believes is right for her."
+},
+{
+  "Author": "Manuel Puig",
+  "Category": "fear",
+  "Quotes": "I am very interested in what has been called bad taste. I believe the fear of displaying a soi-disant bad taste stops us from venturing into special cultural zones."
+},
+{
+  "Author": "Friedrich Durrenmatt",
+  "Category": "fear",
+  "Quotes": "So then learn to conquer your fear. This is the only art we have to master nowadays: to look at things without fear, and to fearlessly do right."
+},
+{
+  "Author": "Friedrich Durrenmatt",
+  "Category": "fear",
+  "Quotes": "Who sows fear, reaps weapons."
+},
+{
+  "Author": "Bernard Law Montgomery",
+  "Category": "fear",
+  "Quotes": "Discipline strengthens the mind so that it becomes impervious to the corroding influence of fear."
+},
+{
+  "Author": "Arthur Henderson",
+  "Category": "fear",
+  "Quotes": "It is because I believe that it is in the power of such nations to lead the world back into the paths of peace that I propose to devote myself to explaining what, in my opinion, can and should be done to banish the fear of war that hangs so heavily over the world."
+},
+{
+  "Author": "Patrick J. Kennedy",
+  "Category": "fear",
+  "Quotes": "Terrorism is a psychological warfare. Terrorists try to manipulate us and change our behavior by creating fear, uncertainty, and division in society."
+},
+{
+  "Author": "Lionel Blue",
+  "Category": "fear",
+  "Quotes": "I didn't want to be on the losing side. I was fed up with Jewish weakness, timidity and fear. I didn't want any more Jewish sentimentality and Jewish suffering. I was sickened by our sad songs."
+},
+{
+  "Author": "Julien Benda",
+  "Category": "fear",
+  "Quotes": "Peace, if it ever exists, will not be based on the fear of war but on the love of peace."
+},
+{
+  "Author": "Francis Quarles",
+  "Category": "fear",
+  "Quotes": "Necessity of action takes away the fear of the act, and makes bold resolution the favorite of fortune."
+},
+{
+  "Author": "John Doolittle",
+  "Category": "fear",
+  "Quotes": "Democracy is stronger than terrorism, and we will not cower to the terrorists' campaign of fear."
+},
+{
+  "Author": "Mary Tyler Moore",
+  "Category": "fear",
+  "Quotes": "I live in a kind of controlled awareness. I wouldn't call it fear, but it's an awareness. I know I have a responsibility to behave in a certain way. I'm able to do that."
+},
+{
+  "Author": "Vince Cable",
+  "Category": "fear",
+  "Quotes": "I fear that the rising personal bankruptcies and repossessions are the first signs of bigger problems to come and personal debt - Gordon Brown's legacy to millions of Britain's families - will hang like a millstone around the neck of the British people for years to come."
+},
+{
+  "Author": "James Hillman",
+  "Category": "fear",
+  "Quotes": "Fear is a huge thing for older people."
+},
+{
+  "Author": "Stanislav Grof",
+  "Category": "fear",
+  "Quotes": "The elimination of the fear of death transforms the individual's way of being in the world."
+},
+{
+  "Author": "Stanislav Grof",
+  "Category": "fear",
+  "Quotes": "Dying before dying has two important consequences: It liberates the individual from the fear of death and influences the actual experience of dying at the time of biological demise."
+},
+{
+  "Author": "Ayelet Waldman",
+  "Category": "fear",
+  "Quotes": "One of the darkest, deepest shames so many of us mothers feel nowadays is our fear that we are Bad Mothers, that we are failing our children and falling far short of our own ideals."
+},
+{
+  "Author": "Ayelet Waldman",
+  "Category": "fear",
+  "Quotes": "By presenting a faithful and honest record of my experience as a mother, I hope to show both my readers and my children how truth can redeem even what you fear might be the gravest of sins."
+},
+{
+  "Author": "Ayelet Waldman",
+  "Category": "fear",
+  "Quotes": "The thing about youthful offenders is that no one seems to care about them. Most people don't like adolescents - even the good ones can be snarky and unpleasant. Combine the antipathy we feel toward the average teenager with the fear inspired by youth violence, and you have a population that no one wants to deal with."
+},
+{
+  "Author": "Ayelet Waldman",
+  "Category": "fear",
+  "Quotes": "Another parent's different approach raises the possibility that you've made a mistake with your child. We simply can't tolerate that because we fear that any mistake, no matter how minor, could have devastating consequences. So we proclaim the superiority of our own choices. We've lost sight of the fact that people have preferences."
+},
+{
+  "Author": "Andrew Weil",
+  "Category": "fear",
+  "Quotes": "Fear and greed are potent motivators. When both of these forces push in the same direction, virtually no human being can resist."
+},
+{
+  "Author": "Mira Sorvino",
+  "Category": "fear",
+  "Quotes": "We all struggle with our failure to communicate and our failure to reach beyond fear to love people."
+},
+{
+  "Author": "Portia de Rossi",
+  "Category": "fear",
+  "Quotes": "You live with the fear people might find out. Then you actually have the courage to tell people and they go, I don't think you are gay. It's enough to drive you crazy."
+},
+{
+  "Author": "Lev Grossman",
+  "Category": "fear",
+  "Quotes": "More than fantasy or even science fiction, Ray Bradbury wrote horror, and like so many great horror writers he was himself utterly without fear, of anything. He wasn't afraid of looking uncool - he wasn't scared to openly love innocence, or to be optimistic, or to write sentimentally when he felt that way."
+},
+{
+  "Author": "Barbara Ehrenreich",
+  "Category": "fear",
+  "Quotes": "There is the fear, common to all English-only speakers, that the chief purpose of foreign languages is to make fun of us. Otherwise, you know, why not just come out and say it?"
+},
+{
+  "Author": "Andrea Jung",
+  "Category": "fear",
+  "Quotes": "President Obama's 100-day plan is pretty impressive. I think it's a Wow 100-plus days. The administration is not operating from fear, it is trying to drive change for the future, and that's a good thing."
+},
+{
+  "Author": "David Walliams",
+  "Category": "fear",
+  "Quotes": "I have a pathological fear of being on my own. When I'm with my own thoughts, I start to unravel myself, and I start to think really dark thoughts, self-destructive thoughts."
+},
+{
+  "Author": "David Walliams",
+  "Category": "fear",
+  "Quotes": "I don't have a fear factor. Well, not much of one. And I'm willing to risk quite a lot - as a comedian, you're always risking a lot. You're risking failure, especially if you're improvising and going on TV shows trying to make comedy out of thin air. That is quite a risky business."
+},
+{
+  "Author": "Franklin P. Jones",
+  "Category": "fear",
+  "Quotes": "It's the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we're paying somebody not to."
+},
+{
+  "Author": "Vanessa Paradis",
+  "Category": "fear",
+  "Quotes": "Fear can make all of us do the wrong things sometimes."
+},
+{
+  "Author": "Muqtada al Sadr",
+  "Category": "fear",
+  "Quotes": "I fear only God, all praises to Him."
+},
+{
+  "Author": "Lawrence Kasdan",
+  "Category": "fear",
+  "Quotes": "You know, Stephen says, in the movies no one ever goes to the bathroom. They shave, they brush their teeth. He goes right at this sort of funny taboo we have about the bathroom, and he turned it into this nightmare, you know, your worst fear of what's in there."
+},
+{
+  "Author": "Travis Barker",
+  "Category": "fear",
+  "Quotes": "My biggest fear ever is to be involved in a plane crash, so when that happened... well, I'm just thankful to be alive. I'm just grateful to be here at all."
+},
+{
+  "Author": "Harry Browne",
+  "Category": "fear",
+  "Quotes": "Libertarians know that a free country has nothing to fear from anyone coming in or going out - while a welfare state is scared to death of poor people coming in and rich people getting out."
+},
+{
+  "Author": "Brooke Burke",
+  "Category": "fear",
+  "Quotes": "Hey, we all have our fear. Mine is bugs and lobsters!"
+},
+{
+  "Author": "Isabelle Adjani",
+  "Category": "fear",
+  "Quotes": "There are people who never experience that, who remain closed until death, from fear of change."
+},
+{
+  "Author": "Alexander Payne",
+  "Category": "fear",
+  "Quotes": "The biggest fear I have is to die with regrets, and of course that will come true."
+},
+{
+  "Author": "Sherri Shepherd",
+  "Category": "fear",
+  "Quotes": "If you don't go towards the thing you fear, you won't be able to say you lived."
+},
+{
+  "Author": "Kristen Wiig",
+  "Category": "fear",
+  "Quotes": "I wish I had less fear about creating my own parts."
+},
+{
+  "Author": "Kristen Wiig",
+  "Category": "fear",
+  "Quotes": "I'd make a terrible surgeon. The fear of blood? Very high on my list."
+},
+{
+  "Author": "Louise Brown",
+  "Category": "fear",
+  "Quotes": "I could write an entertaining novel about rejection slips, but I fear it would be overly long."
+},
+{
+  "Author": "Jack Kevorkian",
+  "Category": "fear",
+  "Quotes": "Not one has shown an iota of fear of death. They want to end this agony."
+},
+{
+  "Author": "Mitch Daniels",
+  "Category": "fear",
+  "Quotes": "We Hoosiers hold to some quaint notions. Some might say we 'cling' to them, though not out of fear or ignorance. We believe in paying our bills. We have kept our state in the black throughout the recent unpleasantness, while cutting rather than raising taxes, by practicing an old tribal ritual - we spend less money than we take in."
+},
+{
+  "Author": "Joyce Maynard",
+  "Category": "fear",
+  "Quotes": "The vehemence with which certain critics have chosen not simply to criticize what I've written, but to challenge my writing this story at all, speaks of what the book is about: fear of disapproval."
+},
+{
+  "Author": "Richard Trumka",
+  "Category": "fear",
+  "Quotes": "I say let's go back to a truer use of the word 'freedom.' Let's start with President Franklin Roosevelt's Four Freedoms: freedom of speech and expression, freedom of worship, freedom from want and freedom from fear. I would add the freedom to bargain collectively. Those freedoms are under attack today."
+},
+{
+  "Author": "Natan Sharansky",
+  "Category": "fear",
+  "Quotes": "When we are unwilling to draw clear moral lines between free societies and fear societies, when we are unwilling to call the former good and the latter evil, we will not be able to advance the cause of peace because peace cannot be disconnected from freedom."
+},
+{
+  "Author": "Anish Kapoor",
+  "Category": "fear",
+  "Quotes": "You know that day after day of, Oh God what am I going to do with myself feeling? The fear of the emptiness that it implies keeps me going."
+},
+{
+  "Author": "Greg Kinnear",
+  "Category": "fear",
+  "Quotes": "I find fear is a great motivator to work hard."
+},
+{
+  "Author": "Willie Aames",
+  "Category": "fear",
+  "Quotes": "They did interviews with my wife and daughter-they were genuinely in fear of me having a heart attack, working 20 hours a day, eating fast food."
+},
+{
+  "Author": "George Osborne",
+  "Category": "fear",
+  "Quotes": "There was a real fear that a euro-zone bank might fail, that we'd have a sovereign debt problem in one of the larger European economies. That's dissipated, thanks largely to the action of the European Central Bank."
+},
+{
+  "Author": "Jean Anouilh",
+  "Category": "fear",
+  "Quotes": "We poison our lives with fear of burglary and shipwreck, and, ask anyone, the house is never burgled, and the ship never goes down."
+},
+{
+  "Author": "Ray Comfort",
+  "Category": "fear",
+  "Quotes": "When men don't fear God, they give themselves to evil."
+},
+{
+  "Author": "Clara Schumann",
+  "Category": "fear",
+  "Quotes": "I cannot give a single concert at which I do not play one piece after the other in an agony of terror because my memory threatens to fail me. This fear torments me for days beforehand."
+},
+{
+  "Author": "Bashar al-Assad",
+  "Category": "fear",
+  "Quotes": "Worry does not mean fear, but readiness for the confrontation."
+},
+{
+  "Author": "Algernon Charles Swinburne",
+  "Category": "fear",
+  "Quotes": "Hope thou not much, and fear thou not at all."
+},
+{
+  "Author": "Tahar Ben Jelloun",
+  "Category": "fear",
+  "Quotes": "We must have our say, not through violence, aggression or fear. We must speak out calmly and forcefully. We shall only be able to enter the new world era if we agree to engage in dialogue with the other side."
+},
+{
+  "Author": "Mary McCarthy",
+  "Category": "fear",
+  "Quotes": "People with bad consciences always fear the judgment of children."
+},
+{
+  "Author": "Ariel Sharon",
+  "Category": "fear",
+  "Quotes": "As one who participated in all the wars of the state of Israel, I saw the horror of wars. I saw the fear of wars. I saw my best friends being killed in battles. I was seriously injured twice."
+},
+{
+  "Author": "James K. Polk",
+  "Category": "fear",
+  "Quotes": "The world has nothing to fear from military ambition in our Government."
+},
+{
+  "Author": "Tommy Lee Jones",
+  "Category": "fear",
+  "Quotes": "I fear other actors who are not prepared. And I fear directors who are afraid."
+},
+{
+  "Author": "Hans Blix",
+  "Category": "fear",
+  "Quotes": "I don't think that anyone seriously fears that the world can be blown to pieces all together. But what one can fear and rightly so are regional things, like in the Middle East, India, Pakistan, the Korean Peninsula, borders in Africa, etc."
+},
+{
+  "Author": "Daniel H. Wilson",
+  "Category": "fear",
+  "Quotes": "Change creates fear, and technology creates change. Sadly, most people don't behave very well when they are afraid."
+},
+{
+  "Author": "Maria Shriver",
+  "Category": "fear",
+  "Quotes": "Part of what Special Olympics is trying to do is break down stereotypes that still exist for people. There is still a lot of fear."
+},
+{
+  "Author": "Daniel H. Wilson",
+  "Category": "fear",
+  "Quotes": "The fear of the never-ending onslaught of gizmos and gadgets is nothing new. The radio, the telephone, Facebook - each of these inventions changed the world. Each of them scared the heck out of an older generation. And each of them was invented by people who were in their 20s."
+},
+{
+  "Author": "Jenny Eclair",
+  "Category": "fear",
+  "Quotes": "I have a fear of poverty in old age. I have this vision of myself living in a skip and eating cat food. It's because I'm freelance, and I've never had a proper job. I don't have a pension, and my savings are dwindling. I always thought someone would just come along and look after me."
+},
+{
+  "Author": "Judy Blume",
+  "Category": "fear",
+  "Quotes": "Let children read whatever they want and then talk about it with them. If parents and kids can talk together, we won't have as much censorship because we won't have as much fear."
+},
+{
+  "Author": "Judy Blume",
+  "Category": "fear",
+  "Quotes": "The books that will never be read. And all due to the fear of censorship. As always, young readers will be the real losers."
+},
+{
+  "Author": "Barry Mann",
+  "Category": "fear",
+  "Quotes": "There's so much fear involved in trying to do something you don't know how to do that drugs and alcohol can become a big part of your life if you have an addictive personality or are very unsure, which most songwriters are."
+},
+{
+  "Author": "Jewel",
+  "Category": "fear",
+  "Quotes": "The things you fear are undefeatable, not by their nature, but by your approach."
+},
+{
+  "Author": "Lynda Barry",
+  "Category": "fear",
+  "Quotes": "I live in constant fear of being fired or dropped for that dark part of my work I can't control."
+},
+{
+  "Author": "Terry Bradshaw",
+  "Category": "fear",
+  "Quotes": "The fear for a network is the viewer gets tired of you. Not that you lost any credibility, but they get tired of you."
+},
+{
+  "Author": "Reese Witherspoon",
+  "Category": "fear",
+  "Quotes": "But with the right kind of coaching and determination you can accomplish anything and the biggest accomplishment that I feel I got from the film was overcoming that fear."
+},
+{
+  "Author": "Emmanuelle Beart",
+  "Category": "fear",
+  "Quotes": "We've all had that fear, that despair of losing someone, or this fierce desire because it's not reciprocated. The less reciprocation there is, the more desire we have."
+},
+{
+  "Author": "Frank Ocean",
+  "Category": "fear",
+  "Quotes": "I won't touch on risky, because that's subjective. People are just afraid of things too much. Afraid of things that don't necessarily merit fear."
+},
+{
+  "Author": "James Lane Allen",
+  "Category": "fear",
+  "Quotes": "He who has conquered doubt and fear has conquered failure."
+},
+{
+  "Author": "Tom Brady",
+  "Category": "fear",
+  "Quotes": "I don't want to wake up and be bored. That's probably my greatest fear is to have nothing to do. What better job is there than to play quarterback for an NFL team, and certainly one that I've been on for a long time and had success with? I don't plan on giving it up any time soon."
+},
+{
+  "Author": "David Guetta",
+  "Category": "fear",
+  "Quotes": "I'm not the type of person to live in fear. I think positively."
+},
+{
+  "Author": "Sam Shepard",
+  "Category": "fear",
+  "Quotes": "Sides are being divided now. It's very obvious. So if you're on the other side of the fence, you're suddenly anti-American. It's breeding fear of being on the wrong side."
+},
+{
+  "Author": "Leon Kass",
+  "Category": "fear",
+  "Quotes": "There is a lot of hype and fear about this much-talked-about prospect of designer babies."
+},
+{
+  "Author": "Ron Chernow",
+  "Category": "fear",
+  "Quotes": "You don't want too much fear in a market, because people will be blinded to some very good buying opportunities. You don't want too much complacency because people will be blinded to some risk."
+},
+{
+  "Author": "Ron Chernow",
+  "Category": "fear",
+  "Quotes": "There is a kind of fear, approaching a panic, that's spreading through the Baby Boom Generation, which has suddenly discovered that it will have to provide for its own retirement."
+},
+{
+  "Author": "James Bovard",
+  "Category": "fear",
+  "Quotes": "Part of the reason that the government's fear mongering is succeeding is because so many people are so ignorant, that it is easier for government to frighten people in submission."
+},
+{
+  "Author": "Peter Nivio Zarlenga",
+  "Category": "fear",
+  "Quotes": "Action conquers fear."
+},
+{
+  "Author": "G. Gordon Liddy",
+  "Category": "fear",
+  "Quotes": "Defeat the fear of death and you welcome the death of fear."
+},
+{
+  "Author": "Andy Murray",
+  "Category": "fear",
+  "Quotes": "There is a fear of emotion in tennis."
+},
+{
+  "Author": "Errol Morris",
+  "Category": "fear",
+  "Quotes": "Forty years ago this country went down a rabbit hole in Vietnam and millions died. I fear we're going down a rabbit hole once again - and if people can stop and think and reflect on some of the ideas and issues in this movie, perhaps I've done some damn good here!"
+},
+{
+  "Author": "Andy Murray",
+  "Category": "fear",
+  "Quotes": "In tennis, it is not the opponent you fear, it is the failure itself, knowing how near you were but just out of reach."
+},
+{
+  "Author": "Lou Henry Hoover",
+  "Category": "fear",
+  "Quotes": "The independent girl is a person before whose wrath only the most rash dare stand, and, they, it must be confessed, with much fear and trembling."
+},
+{
+  "Author": "Robert Falcon Scott",
+  "Category": "fear",
+  "Quotes": "Hunger and fear are the only realities in dog life: an empty stomach makes a fierce dog."
+},
+{
+  "Author": "Warren Farrell",
+  "Category": "fear",
+  "Quotes": "The only men who aren't in fear of women's reactions are usually men who aren't born or who are dead."
+},
+{
+  "Author": "Shane Warne",
+  "Category": "fear",
+  "Quotes": "My only problem is the fear that opposition bowlers might go for my fingers and that's why I was scared of the short ball. Now I am struggling with the ball pitching up and swinging away. I just keep nicking that one."
+},
+{
+  "Author": "Mary Schmich",
+  "Category": "fear",
+  "Quotes": "A line from one of my 1997 columns - 'Do one thing every day that scares you' - is now widely attributed to Eleanor Roosevelt, though I have yet to see any evidence that she ever said it and I don't believe she did. She said some things about fear, but not that thing."
+},
+{
+  "Author": "Michael Morpurgo",
+  "Category": "fear",
+  "Quotes": "A lot of children, like I did, move away from words because of the fear - which is something you have to take out of education: the fear of worrying about what marks you'll get, detention, worrying about letting people down, your parents, teachers."
+},
+{
+  "Author": "Mariska Hargitay",
+  "Category": "fear",
+  "Quotes": "I am grateful that I didn't let fear get the best of me. It only holds you back from possibilities and greatness."
+},
+{
+  "Author": "Mariska Hargitay",
+  "Category": "fear",
+  "Quotes": "You've got to kick fear to the side, because the payoff is huge."
+},
+{
+  "Author": "Luiz Inacio Lula da Silva",
+  "Category": "fear",
+  "Quotes": "My greatest desire is that the hope that has overcome fear in my country will help vanquish it around the world."
+},
+{
+  "Author": "Elinor Wylie",
+  "Category": "fear",
+  "Quotes": "In masks outrageous and austere, The years go by in single file But none has merited my fear, And none has quite escaped my smile."
+},
+{
+  "Author": "Caecilius Statius",
+  "Category": "fear",
+  "Quotes": "Fear created the first gods in the world."
+},
+{
+  "Author": "Patrick Swayze",
+  "Category": "fear",
+  "Quotes": "What's powerful about a love scene is not seeing the act. It's seeing the passion, the need, the desire, the caring, the fear."
+},
+{
+  "Author": "Barry Bonds",
+  "Category": "fear",
+  "Quotes": "But to be the best, you must face the best. And to overcome your fear, you must deal with the best."
+},
+{
+  "Author": "Patrick Wilson",
+  "Category": "fear",
+  "Quotes": "The way you deal with a scare is the way you deal with a laugh. The timing has to be perfect. When you're dealing with fear or laughter - emotions that happen spontaneously - you hope it's working. But in the moment, you really have no idea."
+},
+{
+  "Author": "John Boyd Orr",
+  "Category": "fear",
+  "Quotes": "It is said that those whom the gods wish to destroy they first make mad. It may well be that a war neurosis stirred up by propaganda of fear and hatred is the prelude to destruction."
+},
+{
+  "Author": "Jenson Button",
+  "Category": "fear",
+  "Quotes": "To drive an F1 car you have to be a little mad. On the morning of a race there's a mix of excitement and fear. If it's a wet track, then it's worse as you're not in control most of the time, which is the thing all drivers fear the most."
+},
+{
+  "Author": "M. Night Shyamalan",
+  "Category": "fear",
+  "Quotes": "My biggest fear in life is to be average."
+},
+{
+  "Author": "M. Night Shyamalan",
+  "Category": "fear",
+  "Quotes": "When you say 'fear of the unknown', that is the definition of fear fear is the unknown, fear is what you do not know, and it's genetically within us so that we feel safe. We feel scared of the woods because we're not familiar with it, and that keeps you safe."
+},
+{
+  "Author": "Charles Frohman",
+  "Category": "fear",
+  "Quotes": "Why fear death? It is the most beautiful adventure in life."
+},
+{
+  "Author": "Ben Stiller",
+  "Category": "fear",
+  "Quotes": "There's always an element of fear that you need to work a lot until people get sick and tired of you or finally figure out that you're a fraud after all!"
+},
+{
+  "Author": "Freida Pinto",
+  "Category": "fear",
+  "Quotes": "I'd like to jump out of a plane. I have a fear of heights I'd like to face."
+},
+{
+  "Author": "Melissa Rosenberg",
+  "Category": "fear",
+  "Quotes": "Studios, because they are investing a great deal of money in movies, they want a guarantee that when they hire somebody that person can deliver for them. Everything is fear based, so they pigeonhole people. But I've written everything, from Westerns to sci-fi to dramedy, I've done it all."
+},
+{
+  "Author": "Edward Walker",
+  "Category": "fear",
+  "Quotes": "By action and reaction do we become strong or weak, according to the character of our thoughts and mental states. Fear is the deadly nightshade of the mind."
+},
+{
+  "Author": "Cecil Beaton",
+  "Category": "fear",
+  "Quotes": "Americans have an abiding belief in their ability to control reality by purely material means... airline insurance replaces the fear of death with the comforting prospect of cash."
+},
+{
+  "Author": "Laurell K. Hamilton",
+  "Category": "fear",
+  "Quotes": "I think that my vampires in general were influenced by my being allowed to watch the Hammer vampire films. Vampire Circus, also shown as Circus of Fear, was one of those movies."
+},
+{
+  "Author": "Chris Evans",
+  "Category": "fear",
+  "Quotes": "I decided to make 'Captain America' because I realized I wasn't doing the film because it terrified me. You can't make decisions based on fear."
+},
+{
+  "Author": "Ellen Barkin",
+  "Category": "fear",
+  "Quotes": "With all of the divisiveness that is going on in the country we live in, so much of it is based around just fear of the other. And anyone who does not look like me, walk like me, talk like me, have sex like me, they're the other and I'm afraid of them. And hopefully we will learn that it's just not scary. There's nothing to be afraid of."
+},
+{
+  "Author": "Paul Wolfowitz",
+  "Category": "fear",
+  "Quotes": "China, in the future, is going to have even more nuclear capability than it has had in the past. I don't believe that they have anything to fear from the United States, and I frankly don't believe they do fear the United States."
+},
+{
+  "Author": "May Sarton",
+  "Category": "fear",
+  "Quotes": "It is the privilege of those who fear love to murder those who do not fear it!"
+},
+{
+  "Author": "Guillermo Cabrera Infante",
+  "Category": "fear",
+  "Quotes": "Writers rush in where publishers fear to tread and where translators fear to tread."
+},
+{
+  "Author": "Jonny Wilkinson",
+  "Category": "fear",
+  "Quotes": "I play with a fear of letting people down. That's what motivates me."
+},
+{
+  "Author": "Don DeLillo",
+  "Category": "fear",
+  "Quotes": "There's a connection between the advances that are made in technology and the sense of primitive fear people develop in response to it."
+},
+{
+  "Author": "Gregory Bateson",
+  "Category": "fear",
+  "Quotes": "Every move we make in fear of the next war in fact hastens it."
+},
+{
+  "Author": "Charles Rangel",
+  "Category": "fear",
+  "Quotes": "The Klan had used fear, intimidation and murder to brutally oppress over African-Americans who sought justice and equality and it sought to respond to the young workers of the civil rights movement in Mississippi in the same way."
+},
+{
+  "Author": "Oliver Stone",
+  "Category": "fear",
+  "Quotes": "Fear may very well be a caveman fear of the predator, of the giant lizard chasing them - maybe that's what Steven Spielberg connects with so well in Lost World."
+},
+{
+  "Author": "William Westmoreland",
+  "Category": "fear",
+  "Quotes": "War is fear cloaked in courage."
+},
+{
+  "Author": "Theodore C. Sorensen",
+  "Category": "fear",
+  "Quotes": "We will be safer from terrorist attack only when we have earned the respect of all other nations instead of their fear, respect for our values and not merely our weapons."
+},
+{
+  "Author": "Laura Marling",
+  "Category": "fear",
+  "Quotes": "I've been quite fascinated by the relative insignificance of human existence, the shortness of life. We might as well be a letter in a word in a sentence on a page in a book in a library in a city in one country in this enormous universe! And that kind of fear and insignificance has kept me awake at night."
+},
+{
+  "Author": "Carrie-Anne Moss",
+  "Category": "fear",
+  "Quotes": "Are you gonna fuel your faith or fuel your fear? I'm all about fueling my faith, especially when it's hard to do so."
+},
+{
+  "Author": "Haley Joel Osment",
+  "Category": "fear",
+  "Quotes": "I like normal stuff people fear - like spiders and heights. I'm frightened by the unknown, by things that are hard to figure out and get a grip on."
+},
+{
+  "Author": "Rollo Armstrong",
+  "Category": "fear",
+  "Quotes": "If you believe in yourself, if you are without fear, you will also be tolerant, non-aggressive and find love."
+},
+{
+  "Author": "Terry Gross",
+  "Category": "fear",
+  "Quotes": "It sometimes is just the fear of being misunderstood."
+},
+{
+  "Author": "Francis Quarles",
+  "Category": "fear",
+  "Quotes": "Fear nothing but what thy industry may prevent be confident of nothing but what fortune cannot defeat it is no less folly to fear what is impossible to be avoided than to be secure when there is a possibility to be deprived."
+},
+{
+  "Author": "Peter Guber",
+  "Category": "fear",
+  "Quotes": "Nothing drew me to the film business. I was propelled by the fear and anxiety of Vietnam. I had been drafted into the Marines. My brother was already serving in Vietnam. I bought, if you will, a stay of execution - both literally and figuratively - and went on to graduate school of business from the law school that I was attending."
+},
+{
+  "Author": "Seth Godin",
+  "Category": "fear",
+  "Quotes": "Being aware of your fear is smart. Overcoming it is the mark of a successful person."
+},
+{
+  "Author": "Andrew Mason",
+  "Category": "fear",
+  "Quotes": "In terms of fear, I still am most afraid of Freddie Kruger."
+},
+{
+  "Author": "Heston Blumenthal",
+  "Category": "fear",
+  "Quotes": "I'm not scared of anything in particular, but I am motivated by a fear of failure as opposed to a need to succeed."
+},
+{
+  "Author": "Molly Ivins",
+  "Category": "fear",
+  "Quotes": "Many a time freedom has been rolled back - and always for the same sorry reason: fear."
+},
+{
+  "Author": "Alan Cumming",
+  "Category": "fear",
+  "Quotes": "I was horrified when Richard Chamberlain and Rupert Everett said gay actors should stay in the closet. They were saying to people that they should live a lie and not be liberated, to live in fear of being found out."
+},
+{
+  "Author": "King Hussein I",
+  "Category": "fear",
+  "Quotes": "For our part, we shall continue to work for the new dawn when all the Children of Abraham and their descendants are living together in the birthplace of their three great monotheistic religions, a life free from fear, a life free from want - a life in peace."
+},
+{
+  "Author": "David Blaine",
+  "Category": "fear",
+  "Quotes": "My only fear is the unknown."
+},
+{
+  "Author": "Indra Devi",
+  "Category": "fear",
+  "Quotes": "Yoga is a way to freedom. By its constant practice, we can free ourselves from fear, anguish and loneliness."
+},
+{
+  "Author": "Shalom Harlow",
+  "Category": "fear",
+  "Quotes": "I think there's a lot projected on beautiful women, period. At least, maybe this is just my fear, but I do sometimes feel dismissed before I've even been allowed to participate. I have moments of feeling really wounded. But I am pretty optimistic, and I do enjoy a lot of my life."
+},
+{
+  "Author": "Francis Beaumont",
+  "Category": "fear",
+  "Quotes": "Let no man fear to die, we love to sleep all, and death is but the sounder sleep."
+},
+{
+  "Author": "Janeane Garofalo",
+  "Category": "fear",
+  "Quotes": "Here's what the right-wing has in, there's no shortage of the natural resources of ignorance, apathy, hate, fear. As long as those things are in the collective conscious and unconscious, the Republicans will have some votes."
+},
+{
+  "Author": "Sade Adu",
+  "Category": "fear",
+  "Quotes": "People are so used to having their lives filmed, they're not even conscious of having cameras around. I still have that sort of suspicion when a camera comes out. I view it as a thing to fear."
+},
+{
+  "Author": "Junior Seau",
+  "Category": "fear",
+  "Quotes": "I'm afraid of being average. I have a real fear of being just another linebacker."
+},
+{
+  "Author": "Sebastian Junger",
+  "Category": "fear",
+  "Quotes": "Of the primary emotions, fear is the one that bears most directly on survival. Children show fear. Adults try not to, maybe because it's shameful, or, in some circumstances, dangerous. The fear response is automatic, though, and your body runs through its reflexes whether you want it to or not."
+},
+{
+  "Author": "Dan Farmer",
+  "Category": "fear",
+  "Quotes": "People don't want to talk about death, just like they don't want to talk about computer security. Maybe I should have named my workstation Fear. People are so motivated by fear."
+},
+{
+  "Author": "Hugh Grant",
+  "Category": "fear",
+  "Quotes": "For any new technology there is always controversy and there always some fear associated with it. I think that's just the price of being first sometimes."
+},
+{
+  "Author": "Brit Hume",
+  "Category": "fear",
+  "Quotes": "If the markets had behaved badly, that would obviously add to people's sense of alarm... but there has been a lot of reassurance coming, particularly in the way the Brits handled all this. There seems to be no great fear that something like that is going to happen here."
+},
+{
+  "Author": "Andrew Motion",
+  "Category": "fear",
+  "Quotes": "Each sudden gust of light explains itself as flames, but neither they, nor even bombs redoubled on the hills tonight can quite include me in their fear."
+},
+{
+  "Author": "Michelle Pfeiffer",
+  "Category": "fear",
+  "Quotes": "I was kind of surprised to learn how controlling I am. I never thought of myself in that way. I think the root of the control issues is usually fear, because you want to know what's going to be happening at any given moment."
+},
+{
+  "Author": "Dean Inge",
+  "Category": "fear",
+  "Quotes": "I have no fear that the candle lighted in Palestine years ago will ever be put out."
+},
+{
+  "Author": "John Stossel",
+  "Category": "fear",
+  "Quotes": "The one thing I've learned is that stuttering in public is never as bad as I fear it will be."
+},
+{
+  "Author": "Christiane Amanpour",
+  "Category": "fear",
+  "Quotes": "We manage the fear, I manage the fear, but it certainly takes its toll, the strain does."
+},
+{
+  "Author": "John Stossel",
+  "Category": "fear",
+  "Quotes": "When we were scared about 9/11, we federalized the airport security, we spent millions for body armor for dogs in Ohio. All that over-reaction comes from fear and government - bad combination."
+},
+{
+  "Author": "David Cronenberg",
+  "Category": "fear",
+  "Quotes": "The filmmaking process is a very personal one to me, I mean it really is a personal kind of communication. It's not as though its a study of fear or any of that stuff."
+},
+{
+  "Author": "Alexander Wang",
+  "Category": "fear",
+  "Quotes": "I think everyone shares a fear of failure - that you're only as good as your most recent collection. That's definitely a fear, but it's a fear that fuels me, that makes me want to work harder, that makes me take on more challenges."
+},
+{
+  "Author": "Polly Toynbee",
+  "Category": "fear",
+  "Quotes": "Most people come to fear not death itself, but the many terrible ways of dying."
+},
+{
+  "Author": "Anthony Horowitz",
+  "Category": "fear",
+  "Quotes": "My greatest fear is disappointing the reader, so each book has to be better than the one before."
+},
+{
+  "Author": "Robert Trout",
+  "Category": "fear",
+  "Quotes": "We fear doing too little when we should do more. Then atone by doing too much, when perhaps we should do less."
+},
+{
+  "Author": "Anthony Horowitz",
+  "Category": "fear",
+  "Quotes": "I fear dying in the middle of a book. It would be so annoying to write 80,000 words and not get to the end. I'm phobic about it. So when I'm writing a book I leave messages all over the house for people to know how the story ends, and then someone can finish it for me."
+},
+{
+  "Author": "Graham Swift",
+  "Category": "fear",
+  "Quotes": "I had a fear of becoming anything, a fear of becoming a specialist. I might have become a doctor, but if you become a doctor, that's your specialty in life and you are defined by it. One of the attractions of being a writer is that you're never a specialist. Your field is entirely open your field is the entire human condition."
+},
+{
+  "Author": "Andrew Stanton",
+  "Category": "fear",
+  "Quotes": "Loneliness is, I think, people's biggest fear, whether they are conscious of it or not."
+},
+{
+  "Author": "Vincent D'Onofrio",
+  "Category": "fear",
+  "Quotes": "When I was younger I used to pick things just to face the fear."
+},
+{
+  "Author": "Sugar Ray Leonard",
+  "Category": "fear",
+  "Quotes": "I'll think, If this is his first punch, how are the others gonna feel? That's the only fear I have for myself."
+},
+{
+  "Author": "John Charles Polanyi",
+  "Category": "fear",
+  "Quotes": "When, as we must often do, we fear science, we really fear ourselves."
+},
+{
+  "Author": "Edvard Munch",
+  "Category": "fear",
+  "Quotes": "I have no fear of photography as long as it cannot be used in heaven and in hell."
+},
+{
+  "Author": "Amy Tan",
+  "Category": "fear",
+  "Quotes": "I didn't fear failure. I expected failure."
+},
+{
+  "Author": "Arabella Weir",
+  "Category": "fear",
+  "Quotes": "I know a lot of people fear the rougher types who might be at a state school, but surely it is better to know who they are and how to deal with them than for that kind of child to appear as a completely different species to yours."
+},
+{
+  "Author": "Matt Damon",
+  "Category": "fear",
+  "Quotes": "I'd love to be a dad. I hope I'd be great at it. That's every man's fear, yet his most important job."
+},
+{
+  "Author": "Norman Ralph Augustine",
+  "Category": "fear",
+  "Quotes": "Fools rush in where incumbents fear to tread."
+},
+{
+  "Author": "Geraldine Brooks",
+  "Category": "fear",
+  "Quotes": "The day in 2004 when the radiologist told me I had invasive cancer, I walked down the hospital corridor looking for a phone to call my husband, and I could almost see the fear coming toward me like a big, black shadow."
+},
+{
+  "Author": "Elisha Cuthbert",
+  "Category": "fear",
+  "Quotes": "Celebrity or no celebrity, I think a lot of females deal with the fear of being abducted."
+},
+{
+  "Author": "Garrett Hedlund",
+  "Category": "fear",
+  "Quotes": "See, the 'On the Road' that came out in 1957 was censored. A lot of the honesty of it, the bitter honesty, is in the original scroll version that came out in 2007 on the 50-year anniversary. Back then, there was so much post-Second World War fear that was imposed on everybody - 'You must live life this way' - and these guys were bored."
+},
+{
+  "Author": "Cathy Freeman",
+  "Category": "fear",
+  "Quotes": "With Alexander's cancer, I was definitely brought to my knees for the first time because of the fear factor."
+},
+{
+  "Author": "Ehud Olmert",
+  "Category": "fear",
+  "Quotes": "How are fears born? They are born because of differences in tradition and history they are born because of differences in emotional, political and national circumstances. Because of such differences, people fear they cannot live together."
+},
+{
+  "Author": "Edward Albert",
+  "Category": "fear",
+  "Quotes": "Some days it is a heroic act just to refuse the paralysis of fear and straighten up and step into another day."
+},
+{
+  "Author": "Rosie O'Donnell",
+  "Category": "fear",
+  "Quotes": "Don't fear the terrorists. They're mothers and fathers."
+},
+{
+  "Author": "Tom Hopkins",
+  "Category": "fear",
+  "Quotes": "Do what you fear most and you control fear."
+},
+{
+  "Author": "Matthew Fox",
+  "Category": "fear",
+  "Quotes": "I don't think that fundamentalism has anything to do with Jesus Christ. They call themselves Christians, but if that's Christian, count me out. Fundamentalism is built on fear and greed. They're telling you to give them your money otherwise you're going to hell."
+},
+{
+  "Author": "George Weinberg",
+  "Category": "fear",
+  "Quotes": "The roots of homophobia are fear. Fear and more fear."
+},
+{
+  "Author": "St. Vincent",
+  "Category": "fear",
+  "Quotes": "I remember looking at the sky and thinking that the universe is so big and it's all chaos. I call it 'the dark fear.' At any moment, the dark fear could come in."
+},
+{
+  "Author": "Michelle Bachelet",
+  "Category": "fear",
+  "Quotes": "There is no city or country in the world where women and girls live free of the fear of violence. No leader can claim: 'this is not happening in my backyard.'"
+},
+{
+  "Author": "R. L. Stine",
+  "Category": "fear",
+  "Quotes": "Most fears are basic: fear of the dark, fear of going down in the basement, fear of weird sounds, fear that somebody is waiting for you in your closet. Those kinds of things stay with you no matter what age."
+},
+]
+}
