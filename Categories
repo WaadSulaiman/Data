@@ -80,4 +80,28 @@
 "Category": "Failure",
 "url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFailure"
 },
+{
+"Category": "Faith",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFaith"
+},
+{
+"Category": "Family",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFamily"
+},
+{
+"Category": "Famous",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFamous"
+},
+{
+"Category": "Fear",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFear"
+},
+{
+"Category": "Food",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFood"
+},
+{
+"Category": "Freedom",
+"url": "https://raw.githubusercontent.com/WaadSulaiman/Data/master/CategoryFreedom"
+},
 ]}
